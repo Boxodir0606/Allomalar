@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="uz.boxodir.alomalar.MainActivity"
+    android:orientation="vertical">
+
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="66dp"
+                    android:orientation="horizontal">
+
+                    <androidx.constraintlayout.widget.ConstraintLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:id="@+id/textView3"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_gravity="center"
+                            android:layout_marginBottom="2dp"
+                            android:fontFamily="@font/text_styl"
+                            android:gravity="center"
+                            android:text="Allomalar"
+                            android:textColor="#2196F3"
+                            android:textSize="46sp"
+                            app:layout_constraintBottom_toBottomOf="parent"
+                            app:layout_constraintEnd_toEndOf="parent"
+                            app:layout_constraintHorizontal_bias="0.0"
+                            app:layout_constraintStart_toStartOf="parent"
+                            app:layout_constraintTop_toTopOf="parent"
+                            app:layout_constraintVertical_bias="0.0" />
+
+                        <ImageView
+                            android:id="@+id/imageView2"
+                            android:layout_width="48dp"
+                            android:layout_height="48dp"
+                            android:padding="6dp"
+                            android:background="?android:selectableItemBackgroundBorderless"
+                            app:layout_constraintBottom_toBottomOf="@+id/textView3"
+                            app:layout_constraintEnd_toEndOf="parent"
+                            app:layout_constraintHorizontal_bias="0.958"
+                            app:layout_constraintStart_toStartOf="@+id/textView3"
+                            app:layout_constraintTop_toTopOf="parent"
+                            app:layout_constraintVertical_bias="0.47"
+                            app:srcCompat="@drawable/info"
+                            tools:ignore="UseAppTint" />
+
+                    </androidx.constraintlayout.widget.ConstraintLayout>
+
+<!--                    <LinearLayout-->
+<!--                        android:layout_width="0dp"-->
+<!--                        android:layout_height="match_parent"-->
+<!--                        android:layout_weight="0.3"-->
+<!--                        android:gravity="center"-->
+<!--                        android:orientation="vertical">-->
+
+<!--                        <androidx.appcompat.widget.AppCompatImageView-->
+<!--                            android:id="@+id/seting"-->
+<!--                            android:layout_width="30dp"-->
+<!--                            android:layout_height="30dp"-->
+<!--                            android:layout_marginEnd="6dp"-->
+<!--                            android:layout_gravity="center"-->
+<!--                            android:src="@drawable/baseline_settings_24"/>-->
+
+<!--                    </LinearLayout>-->
+
+                </LinearLayout>
+
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="270dp"
+                    android:orientation="horizontal">
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/navoiy"
+                        android:layout_width="0dp"
+                        android:layout_height="250dp"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_weight="1"
+                        android:orientation="vertical"
+                        android:outlineAmbientShadowColor="@color/black"
+                        app:cardCornerRadius="20dp"
+                        android:background="?android:selectableItemBackground">
+
+                        <de.hdodenhof.circleimageview.CircleImageView
+                            android:layout_width="match_parent"
+                            android:layout_height="200dp"
+                            android:padding="10dp"
+                            android:src="@drawable/navoiy"
+                            tools:ignore="ExtraText,MissingClass" />
+
+                        <androidx.appcompat.widget.AppCompatTextView
+                            android:layout_width="match_parent"
+                            android:layout_height="26dp"
+                            android:layout_gravity="bottom"
+                            android:layout_marginBottom="10dp"
+                            android:gravity="center|bottom"
+                            android:text="Alisher Navoiy"
+                            android:textColor="@color/black"
+                            android:textSize="16sp"
+                            android:textStyle="bold" />
+                        <FrameLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="?android:selectableItemBackground"/>
+                    </androidx.cardview.widget.CardView>
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/bobur"
+                        android:layout_width="0dp"
+                        android:layout_height="250dp"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginEnd="10dp"
+                        android:layout_weight="1"
+                        android:layout_marginTop="10dp"
+                        android:orientation="vertical"
+                        app:cardCornerRadius="20dp"
+                        tools:ignore="Suspicious0dp">
+
+                        <de.hdodenhof.circleimageview.CircleImageView
+                            android:layout_width="match_parent"
+                            android:layout_height="200dp"
+                            android:padding="10dp"
+                            android:src="@drawable/bobur"
+                            tools:ignore="MissingClass" />
+
+                        <androidx.appcompat.widget.AppCompatTextView
+                            android:layout_width="match_parent"
+                            android:layout_height="45dp"
+                            android:layout_gravity="bottom"
+                            android:layout_marginBottom="10dp"
+                            android:gravity="center|bottom"
+                            android:text="Zahiriddin \n Muhammad Bobur"
+                            android:textColor="@color/black"
+                            android:textSize="16sp"
+                            android:textStyle="bold" />
+
+                        <FrameLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="?android:selectableItemBackground"/>
+                    </androidx.cardview.widget.CardView>
+
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="270dp"
+                    android:orientation="horizontal">
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/beruniy"
+                        android:layout_width="0dp"
+                        android:layout_height="250dp"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_weight="1"
+                        android:orientation="vertical"
+                        android:outlineAmbientShadowColor="@color/black"
+                        app:cardCornerRadius="20dp"
+                        tools:ignore="Suspicious0dp">
+
+                        <de.hdodenhof.circleimageview.CircleImageView
+                            android:layout_width="match_parent"
+                            android:layout_height="200dp"
+                            android:padding="10dp"
+                            android:src="@drawable/beruniy"
+                            tools:ignore="MissingClass" />
+
+                        <androidx.appcompat.widget.AppCompatTextView
+                            android:layout_width="match_parent"
+                            android:layout_height="26dp"
+                            android:layout_gravity="bottom"
+                            android:layout_marginBottom="10dp"
+                            android:gravity="center|bottom"
+                            android:text="Abu Rayhon Beruniy"
+                            android:textColor="@color/black"
+                            android:textSize="16sp"
+                            android:textStyle="bold" />
+                        <FrameLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="?android:selectableItemBackground"/>
+
+                    </androidx.cardview.widget.CardView>
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/ulugbek"
+                        android:layout_width="0dp"
+                        android:layout_height="250dp"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginEnd="10dp"
+                        android:layout_weight="1"
+                        android:layout_marginTop="10dp"
+                        android:orientation="vertical"
+                        app:cardCornerRadius="20dp"
+                        tools:ignore="Suspicious0dp">
+
+                        <de.hdodenhof.circleimageview.CircleImageView
+                            android:layout_width="match_parent"
+                            android:layout_height="200dp"
+                            android:padding="10dp"
+                            android:src="@drawable/mirzo"
+                            tools:ignore="MissingClass" />
+
+                        <androidx.appcompat.widget.AppCompatTextView
+                            android:layout_width="match_parent"
+                            android:layout_height="45dp"
+                            android:layout_gravity="bottom"
+                            android:layout_marginBottom="10dp"
+                            android:gravity="center|bottom"
+                            android:text="Mirzo Ulug'bek"
+                            android:textColor="@color/black"
+                            android:textSize="16sp"
+                            android:textStyle="bold" />
+
+                        <FrameLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="?android:selectableItemBackground"/>
+
+                    </androidx.cardview.widget.CardView>
+
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="270dp"
+                    android:orientation="horizontal">
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/ibn_sino"
+                        android:layout_width="0dp"
+                        android:layout_height="250dp"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_weight="1"
+                        android:orientation="vertical"
+                        android:outlineAmbientShadowColor="@color/black"
+                        app:cardCornerRadius="20dp"
+                        tools:ignore="Suspicious0dp">
+
+                        <de.hdodenhof.circleimageview.CircleImageView
+                            android:layout_width="match_parent"
+                            android:layout_height="200dp"
+                            android:padding="10dp"
+                            android:src="@drawable/ibn_sino"
+                            tools:ignore="MissingClass" />
+
+                        <androidx.appcompat.widget.AppCompatTextView
+                            android:layout_width="match_parent"
+                            android:layout_height="26dp"
+                            android:layout_gravity="bottom"
+                            android:layout_marginBottom="10dp"
+                            android:gravity="center|bottom"
+                            android:text="Abu Ali Ibn Sino"
+                            android:textColor="@color/black"
+                            android:textSize="16sp"
+                            android:textStyle="bold" />
+                        <FrameLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="?android:selectableItemBackground"/>
+
+                    </androidx.cardview.widget.CardView>
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/xorazimiy"
+                        android:layout_width="0dp"
+                        android:layout_height="250dp"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginEnd="10dp"
+                        android:layout_weight="1"
+                        android:layout_marginTop="10dp"
+                        android:orientation="vertical"
+                        app:cardCornerRadius="20dp"
+                        tools:ignore="Suspicious0dp">
+
+                        <de.hdodenhof.circleimageview.CircleImageView
+                            android:layout_width="match_parent"
+                            android:layout_height="200dp"
+                            android:padding="10dp"
+                            android:src="@drawable/al_xorazmiy"
+                            tools:ignore="MissingClass" />
+
+                        <androidx.appcompat.widget.AppCompatTextView
+                            android:layout_width="match_parent"
+                            android:layout_height="45dp"
+                            android:layout_gravity="bottom"
+                            android:layout_marginBottom="10dp"
+                            android:gravity="center|bottom"
+                            android:text="Muhammad al-Xorazmiy"
+                            android:textColor="@color/black"
+                            android:textSize="16sp"
+                            android:layout_marginEnd="20dp"
+                            android:layout_marginStart="20dp"
+                            android:textStyle="bold" />
+
+                        <FrameLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="?android:selectableItemBackground"/>
+
+
+                    </androidx.cardview.widget.CardView>
+
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="270dp"
+                    android:orientation="horizontal">
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/ahmad"
+                        android:layout_width="0dp"
+                        android:layout_height="250dp"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_weight="1"
+                        android:orientation="vertical"
+                        android:outlineAmbientShadowColor="@color/black"
+                        app:cardCornerRadius="20dp"
+                        tools:ignore="Suspicious0dp">
+
+                        <de.hdodenhof.circleimageview.CircleImageView
+                            android:layout_width="match_parent"
+                            android:layout_height="200dp"
+                            android:padding="10dp"
+                            android:src="@drawable/fargoni"
+                            tools:ignore="MissingClass" />
+
+                        <androidx.appcompat.widget.AppCompatTextView
+                            android:layout_width="match_parent"
+                            android:layout_height="26dp"
+                            android:layout_gravity="bottom"
+                            android:layout_marginBottom="10dp"
+                            android:gravity="center|bottom"
+                            android:text="Ahmad Farg'oni"
+                            android:textColor="@color/black"
+                            android:textSize="16sp"
+                            android:textStyle="bold" />
+                        <FrameLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="?android:selectableItemBackground"/>
+
+                    </androidx.cardview.widget.CardView>
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/buxoriy"
+                        android:layout_width="0dp"
+                        android:layout_height="250dp"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginEnd="10dp"
+                        android:layout_weight="1"
+                        android:layout_marginTop="10dp"
+                        android:orientation="vertical"
+                        app:cardCornerRadius="20dp"
+                        tools:ignore="Suspicious0dp">
+
+                        <de.hdodenhof.circleimageview.CircleImageView
+                            android:layout_width="match_parent"
+                            android:layout_height="200dp"
+                            android:padding="10dp"
+                            android:src="@drawable/buxoriy"
+                            tools:ignore="MissingClass" />
+
+                        <androidx.appcompat.widget.AppCompatTextView
+                            android:layout_width="match_parent"
+                            android:layout_height="45dp"
+                            android:layout_gravity="bottom"
+                            android:layout_marginBottom="10dp"
+                            android:gravity="center|bottom"
+                            android:text="Imom Buxoriy"
+                            android:textColor="@color/black"
+                            android:textSize="16sp"
+                            android:textStyle="bold" />
+
+                        <FrameLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="?android:selectableItemBackground"/>
+
+                    </androidx.cardview.widget.CardView>
+
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="270dp"
+                    android:orientation="horizontal">
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/ali_qushchi"
+                        android:layout_width="0dp"
+                        android:layout_height="250dp"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_weight="1"
+                        android:orientation="vertical"
+                        android:outlineAmbientShadowColor="@color/black"
+                        app:cardCornerRadius="20dp"
+                        tools:ignore="Suspicious0dp">
+
+                        <de.hdodenhof.circleimageview.CircleImageView
+                            android:layout_width="match_parent"
+                            android:layout_height="200dp"
+                            android:padding="10dp"
+                            android:src="@drawable/ali_qushchi"
+                            tools:ignore="MissingClass" />
+
+                        <androidx.appcompat.widget.AppCompatTextView
+                            android:layout_width="match_parent"
+                            android:layout_height="26dp"
+                            android:layout_gravity="bottom"
+                            android:layout_marginBottom="10dp"
+                            android:gravity="center|bottom"
+                            android:text="Ali Qushchi"
+                            android:textColor="@color/black"
+                            android:textSize="16sp"
+                            android:textStyle="bold" />
+
+                        <FrameLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="?android:selectableItemBackground" />
+
+                    </androidx.cardview.widget.CardView>
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/naqishbandi"
+                        android:layout_width="0dp"
+                        android:layout_height="250dp"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginEnd="10dp"
+                        android:layout_weight="1"
+                        android:layout_marginTop="10dp"
+                        android:orientation="vertical"
+                        app:cardCornerRadius="20dp"
+                        tools:ignore="Suspicious0dp">
+
+                        <de.hdodenhof.circleimageview.CircleImageView
+                            android:layout_width="match_parent"
+                            android:layout_height="200dp"
+                            android:padding="10dp"
+                            android:src="@drawable/bahovuddin"
+                            tools:ignore="MissingClass" />
+
+                        <androidx.appcompat.widget.AppCompatTextView
+                            android:layout_width="match_parent"
+                            android:layout_height="45dp"
+                            android:layout_gravity="bottom"
+                            android:layout_marginBottom="10dp"
+                            android:gravity="center|bottom"
+                            android:text="Bahouddin \n Naqshband"
+                            android:textColor="@color/black"
+                            android:textSize="16sp"
+                            android:textStyle="bold" />
+
+                        <FrameLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="?android:selectableItemBackground"/>
+
+
+                    </androidx.cardview.widget.CardView>
+
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="270dp"
+                    android:orientation="horizontal">
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/farobiy"
+                        android:layout_width="0dp"
+                        android:layout_height="250dp"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_weight="1"
+                        android:orientation="vertical"
+                        android:outlineAmbientShadowColor="@color/black"
+                        app:cardCornerRadius="20dp"
+                        tools:ignore="Suspicious0dp">
+
+                        <de.hdodenhof.circleimageview.CircleImageView
+                            android:layout_width="match_parent"
+                            android:layout_height="200dp"
+                            android:padding="10dp"
+                            android:src="@drawable/farobiy"
+                            tools:ignore="MissingClass" />
+
+                        <androidx.appcompat.widget.AppCompatTextView
+                            android:layout_width="match_parent"
+                            android:layout_height="26dp"
+                            android:layout_gravity="bottom"
+                            android:layout_marginBottom="10dp"
+                            android:gravity="center|bottom"
+                            android:text="Abu Nasir Farobiy"
+                            android:textColor="@color/black"
+                            android:textSize="16sp"
+                            android:textStyle="bold" />
+                        <FrameLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="?android:selectableItemBackground"/>
+
+                    </androidx.cardview.widget.CardView>
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/muin_nasafiy"
+                        android:layout_width="0dp"
+                        android:layout_height="250dp"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginEnd="10dp"
+                        android:layout_weight="1"
+                        android:layout_marginTop="10dp"
+                        android:orientation="vertical"
+                        app:cardCornerRadius="20dp"
+                        tools:ignore="Suspicious0dp">
+
+                        <de.hdodenhof.circleimageview.CircleImageView
+                            android:layout_width="match_parent"
+                            android:layout_height="200dp"
+                            android:padding="10dp"
+                            android:src="@drawable/moin_nasafiy"
+                            tools:ignore="MissingClass" />
+
+                        <androidx.appcompat.widget.AppCompatTextView
+                            android:layout_width="match_parent"
+                            android:layout_height="45dp"
+                            android:layout_gravity="bottom"
+                            android:layout_marginBottom="10dp"
+                            android:gravity="center|bottom"
+                            android:text="Abu Muin Nasafiy"
+                            android:textColor="@color/black"
+                            android:textSize="16sp"
+                            android:textStyle="bold" />
+
+                        <FrameLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="?android:selectableItemBackground"/>
+
+                    </androidx.cardview.widget.CardView>
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </ScrollView>
+</LinearLayout>

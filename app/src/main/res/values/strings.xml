@@ -1,0 +1,612 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Allomalar</string>
+    <string name="navoiy">" Alisher Navoiy (1441-1501) - buyuk shoir va mutafakkir, davlat arbobi. To‘liq ismi Nizomiddin Mir Alisher. Navoiy tahallusi ostida chig‘atoy (eki o‘zbek tili) hamda forsiyda (fors tilidagi asarlarida) ijod qilgan. G‘arbda chig‘atoy adabiyoti hisoblanmish o‘zbek adabiyotining eng yirik namoyondasi. Umuman olganda, butun turkiy xalqlari orasida u kabi yirik shaxs yo‘qdir.
+
+ Navoiy yoshligidan Xurosonning (Transoksaniya) bo‘lajak hukmdori Husayn Boyqaro bilan (1469-1506) do‘st bo‘lgan. 10-12 yoshidan she’rlar yozishni boshlagan. Navoiyning zamondoshi bo‘lmish tarixchi Xondamir (1473(76) -1534) qoldirgan ma’lumotlarga ko‘ra, mashhur o‘zbek shoiri Lutfiy (1369-1465) qarigan chog‘larida bolakay Navoiy bilan ko‘rishadi va uning she’riy iqtidorini yuqori baholaydi.
+
+ Hayoti davomida Navoiy  musulmon Sharqining turli mamlakatlarida bo‘ladi, o‘z davrining taniqli shaxslari bilan ko‘rishadi. O‘zining she’riy mahoratini oshiradi. 1464-1465 yillar Navoiy ijodining shinavandalari uning ilk she’riy to‘plamini (devonlari) tayyorlashadi. Bundan ko‘rinib turibdiki, o’sha davrlardayoq Navoiy mashhur shoir bo‘lib ulgurgan. 1469 yilgacha temuriylar o‘rtasidagi o‘zaro ichki nizolar tufayli Navoiy o‘zining ona shahri Hirotdan uzoqda yashashga majbur bo‘lgan.
+
+ 1469 yil temuriy Husayn Boyqaro Hirotni egallaydi va Xuroson hukmdori bo‘ladi. Shu vaqtdan e’tiboran, Navoiy hayotining yangi bosqichi boshlanadi. U mamlakatning siyosiy hayotida faol ishtirok etadi. Shu yili Xuroson hukmdori Navoiyni davlat muhrdori etib tayinlaydi, 1472 yil vazir bo‘ladi. Egallagan mansabi orqali u mamlakatning madaniy va ilmiy taraqqiyotida katta yordam ko‘rsatadi. Katta mulk egasiga aylanadi.
+
+ 1480 yil Hirot shahrida va boshqa viloyatlarda o‘z hisobidan bir nechta madrasa, 40 ta rabot (yo‘lovchilar uchun bekat), 17 ta masjid, 10 ta so‘fiylar turarjoyi (xonaqoh), 9 ta hammom, 9 ta ko‘prik va boshqalarni qurdiradi. Biroq, saroy amaldorlariga Navoiyning bu kabi faoliyati yoqmaydi va turli fitnalar orqali Husayn Boyqaro bilan munosabatlarini buzishadi.
+
+ Shunday qilib, Navoiy egallab turgan mansabidan ozod etilib, 1487 yil Astrobod shahriga hukmdor sifatida yuboriladi. Bu yerda u ikki yil xizmat qiladi. Mazkur muddat nihoyasiga yetgachgina, X. Boyqaro unga Hirotga qaytib, hokimiyatda mansabga ega bo‘lishiga ruhsat beradi. Lekin Navoiy bu taklifni rad etadi. Rad javobiga qaramay, Boyqaro sultonning yaqin kishisi lavozimini (“mukarrabi xazrati sultani”) taklif etadi. Bunday lavozimda Navoiy barcha davlat ishlari bilan bog‘liq ishlarda qaror qabul qilish huquqiga ega edi.
+
+ Shu vaqtdan Navoiy hayotining yangi bosqichi boshlanadi va u ko‘proq ijod bilan shug‘ullanadi. U yaratgan asarlarining katta qismi aynan shu davrga tegishli. Navoiy temuriylarning so‘nggi hukmronlik yillarida (1370-1506) yashab ijod qilgan. Shuning uchun uning asarlarida jamoat ruhi, davrga xos muhim muammolar ustundir. 1490-1501 yillar Navoiy eng nafis, ijtimoiy-falsafiy va ilmiy asarlarini yaratgan.
+
+ Alisher Navoiyning ijodi ulkan. Olti dostonining hajmi 60 000 ga yaqin misrani tashkil etadi. 1483-1485 yillar Navoiy o‘z ichiga besh dostonni olgan “Hamsa” asarini yaratgan: “Hayrat ul-Abror” (“Yaxshi kishilariing hayratlanishi”), “Farhod va Shirin”, “Layli va Majnun”, “Sab’ai sayyor” (“Yetti sayyora”), “Saddi Iskandariy” (“Iskandar devori”).
+
+ Navoiyning “Hamsa”si mazkur janrda yaratilgan turkiy tildagi birinchi asar hisoblanadi. U - turkiy tilida ham bu kabi yirik ko‘lamdagi asar yaratilishi mumkinligini isbotlab berdi. Haqiqatan ham, Navoiy chig‘atoy tilida (eski o‘zbek tili) ham fors-tojik adabiyoti bilan bir darajada turuvchi asar yaratish mumkinligini isbotlashga harakat qilgan. Va u o‘zining besh hazinasi orqali buning uddasidan chiqqan.
+
+ Navoiy musulmon Sharqining, deyarli barcha janrlarida o‘z qalamini sinab ko‘radi va o‘z ovozi, o‘z uslubi borligini ko‘rsata oladi. Sharq adabiyotida “Layli va Majnun” mavzusida 120 dan ziyod doston yaratilgan. Navoiy ham shaxsiy yondashuvi ila ushbu mavzuda doston yozadi. Dostonda Layli va Majnun o‘rtasidagi sevgi bayon qilinadi. O‘z ifodasida Navoiy odamiylik va so‘fiylik sevgisini sharhlashga harakat qilgan. O‘zining so‘fiylik qarashlarini Navoiy, shuningdek, “Farxod va Shirin”, “Hayrat ul-Abror” dostonlarida ham ifodalagan. Uning dostonlarida so‘fiylik mavzusi umumfalsafiy darajaga ko‘tarilgan.
+
+ Mazkur dostonlarda, bir vaqtning o’zida shoirning insonparvarlik dunyo qarashlari orqali dunyoning dolzarb muammolari qo‘yiladi. “Hamsa”dagi boshqa ikki dostonida - “Sab’ai sayyor” (“Yetti sayyora”), “Saddi Iskandariy” (“Iskandar devori”) hukmdor bilan bog‘liq muammolar (Qayumov A. Saddi Iskandariy. Toshkent, 1980 yil, o‘zbek tilida) yetakchi o‘ringa chiqadi.
+
+ Ma’lum bo‘lishicha, Navoiy temuriylar saroyiga yaqin bo‘lib, do‘sti va podshoh Husayn Boyqaroga ta’sir ko‘rsata olgan. Shu sababli, Navoiy bu dostonlarida H. Boyqaroga qaratilgan g‘oyalarni ifodalab o‘tgan: dunyoning va shoh taxtining o‘zgaruvchanligi; hukmdorning o‘z xalqi oldidagi majburiyatlari… Hamsanafislik an’analariga nisbatan, Navoiy o‘zining ijtimoiy va siyosiy qat’iyati va o‘ziga xosligi bilan ajralib turadi. Abd ar-Rahmon Jomiy (1414-1492) Navoiyning “Hamsa”sini o‘qib, unga juda yuqori baho bergan.
+
+ O‘zining ijtimoiy va badiiy mohiyatiga binoan, Navoiyning “Hamsa”si O‘rta Osiyoda yuqori o‘ringa ega bo‘lgan. U ko‘p marotaba qayta ko‘chirilgan. Hozirgi kunda “Hamsa” yoki uning dostonlarining katta ro‘yhati mavjud. Birgina Abu Rayhon Beruniy nomidagi sharqshunoslik instituti fondining o‘zida XV-XX asrlarda qayta ko‘chirilgan 166 ta qo‘lyozma bo‘lib, ular to‘liq “Hamsa” asari yoki uning alohida dostonlarini tashkil etadi. Shulardan 84 tasi to‘liq doston  ko‘rinishidadir. Navoiy “Hamsa”sining miqdori va keng tarqalishi uni O‘rta Osiyo intellektual hayotida alohida o‘rin egallaganligini ko‘rsatadi.
+
+ Alisher Navoiy butun hayoti davomida adabiy asarlarni siyosat bilan birlashtirgan. Yuqori mansabga ega shaxs bo‘la turib, u mamlakat hayotining ijtimoiy-iqtisodiy takomillashishiga katta hissa qo‘shgan; ilm, fan, san’at rivojiga homiylik qilgan№ tinchlik va totuvlik doimo hukmron surishiga doim harakat qilgan.Navoiy forsiy tilida yozilgan o‘z she’rlarini “Devoni Foniy” nomi ostida jamlagan. U fors shoirlari bilan ham bellashmoqchi bo‘lgan. To‘plam shaklida chiqarilgan g‘azallarini o‘zini hisoblasak, ular 3150 donani tashkil etadi. Navoiy yozgan she’rlarining miqdoriga ko‘ra peshqadam, desak mubolag‘a bo‘lmaydi. Shuningdek, Navoiy fors tilidagi qasidalarini jamlab, “Sittai zaruriya” (“Olti zaruriyat”) va “Fusuli arbaa” (“Yilning to‘rt fasli”) nomli ikki to‘plam yaratadi.
+
+ Navoiy o‘z she’riyati orqali o‘zbek (chig‘atoy) adabiyotini yangi darajaga olib chiqdi. Navoiyning nazmi mavzusining kengligi hamda janrining xilma-xilligi bo‘yicha undan oldingi o‘zbek adabiyotini ortda qoldiradi. U nazmda dostonlardagi kabi dunyoviy va diniy, so‘fiylikning dolzarb masalalarini ifoda qilgan. Navoiyning diniy asarlari ham nashr qilingan: “Arbain” (“Qirq ruboiy”), “Munadjat” (“Allohga iltijo”).
+
+So‘fiy prozaik asari “Nasaim al-muhabbat” (“Muhabbat shabadasi”)ning to‘liqroq matni nashr qilingan bo‘lib, unda 750 ta so‘fiy shayhlar haqida ma’lumot keltirilgan. Navoiy ilmiy asarlar ham yaratgan. Ular qatoriga fors va turkiy tillar qiyosi keltirilgan asarlarni kiritish mumkin: “Muhokamat al-lug‘atayn” (“Ikki til bahsi”); aruz nazariyasiga oid (she’r yozish hajmi) - “Mezon al-avzan” (“Hajm mezoni”), muammo janri nazariyasiga oid - (jumboq) “Mufradat”.
+
+ Bundan tashqari, u tarixiy mavzularda risolalar yaratgan: “Tarixi muluki Adjam” (“Eron shohlari tarixi”), “Tarixi anbiya va xukama” (“Payg‘ambarlar va donolar tarixi”). Badiiy maktublarini “Munshaat” to‘plamiga jamlagan. Uning shoh asarlari: Abd Ar-Rahmon Jomiy hayoti haqida - “Xamsat al-mutaxayyirin”, 1494, “Xalati Sayyid Xasan Ardasher” (“Sayyid Xasan Ardasher hayoti”), “Xalati Pahlavon Muhammad” (“Pahlavon Muhammad hayoti”)lardan iborat.
+
+ Alisher Navoiyning so‘nggi asari “Mahbub ul-qulub” (1500). Unda shoirning so‘nggi ijtimoiy va siyosiy qarashlari yoritilgan.
+
+ Alisher Navoiy butun hayoti davomida adabiy asarlarni siyosat bilan birlashtirgan. Yuqori mansabga ega shaxs bo‘la turib, u mamlakat hayotining ijtimoiy-iqtisodiy takomillashishiga katta hissa qo‘shgan; ilm, fan, san’at rivojiga homiylik qilgan; tinchlik va totuvlik hukmron surishiga doim harakat qilgan.
+
+ Ko‘rib turganimizdek, Navoiy merosi mavzu va janrlari bo‘yicha turlidir. Uning asarlari XV asrdan hozirgi kungacha o‘zbek adabiyoti rivoji uchun xizmat qilib kelmoqda. Asrlar davomida uning asarlari taqlid va ilhom manbai bo‘lib hisoblanib kelgan.
+
+        "</string>
+
+
+    <string name="bobur">" Zahriddin Muhammad Bobur — buyuk o‘zbek shoiri, mutafakkir, tarixshunos va davlat arbobi; boburiylar sulolasi va saltanati asoschisi. Boburning ilmiy mehnatlari orasida “Aruz haqida risola” (1523-25) alohida o‘rin egallaydi, unda sharqiy aruz vazni ko‘rib o‘tiladi. 1521 yil islomning beshta shariat ustuni bayon etilgan falsafiy-diniy “Mubayyin” asarini yozgan.
+
+ Zahriddin Muhammad Bobur 1483 yil 14 fevral kuni Andijonda tavallud topgan, Farg‘ona hukmdorining o‘g‘li, Amir Temurning evarasi. Bobur 1494 yil Farg‘ona hokimi bo‘ladi, 1526 yil Hindistonda markazlashgan boburiylar davlatiga (jahon tarixiga “buyuk mo‘g‘ullar saltanati” bo‘lib kirgan) asos solib, Hindiston inglizlar tomonidan bosib olinishiga qadar (1848) mavjud bo‘lgan. Agra shahrida 1530 yil 26 dekabr kuni vafot etgan.
+
+ Boburning she’riy merosi ko‘pqirrali va boy. Nasriy asarlari (1519) “Qobul devoni”ga, so‘nra (1529-30) “Hind devoni”ga jamlangan. U sharq nasriy janrlarida 10 dan ziyod she’rlar yozgan. She’rlarida uning shaxsiy hayoti, atrof-muhiti va tarixiy hodisalar aks etilgan. Bobur she’riyatining asosini ishqiy-nasriy mazmundagi she’rlar tashkil etadi. Shoir san’ati o‘ziga xos adabiy uslub va mahorat, turkiy tilning ifodaliroq vositalari orqali tasvirlanadi.
+
+ Uning she’rlarida o’z davrining tarixiy hodisalari, shoirning shaxsiy hayoti, atrof-muhit, insonga bo‘lgan munosabat, din, davr an’analari va axloqlari voqe’lik ila aks etgan.
+
+ Boburning she’rlari — shoirning tarjimai xoli, desak mubolag‘a bo‘lmaydi. U orqali ijodkor shoirona til orqali teran tuyg‘ularni bayon qiladi, hayotiy hodisalar to‘qnashuvi natijasida hosil bo‘lgan tashvishlarni mohirona so‘zlaydi.
+
+ Bobur she’riyatining asosini ishqiy-nasriy she’rlar tashkil etadi. Ijodining asosiy qirralaridan biri, chinakam insoniy, dunyoviy, haqiqiy sevgini kuylaganligidir. Shoir lirikasi Alisher Navoiy she’riyatidan ilhomlanish bilan to‘yingan. O‘zining g‘azal va ruboiylarida u sevgi, do‘stlik, go‘zallikka intilish kabi insoniy muammolarni ko‘targan. Dunyoviy sevgini shoir insonning eng porloq unvoni sifatida tarannum etadi.
+
+ Bobur oshig‘i bilan uchrashuv uchun sevgining istalgan qiyinchiliklarini yengib o‘tishga tayyorligini ta’kidlaydi. Katta samimiyat ila shoir sevgi uchun o‘zini borlig‘i bilan qurbon qilishga ham tayyorligini ifodalaydi.Bobur she’riyatida, shuningdek, insonning axloqi va diniy mukammalligi masalalari ko‘tarilgan. Shoir insonni yuqorilarga ko‘tarib, unga ulkan hurmat ila munosabatda bo‘ladi, inson qadr-qimmatini baland qo‘yadi. Bu g‘oyalarga zid bo‘lga barcha narsaga qarshi chiqadi. Boburning fikricha, xudbinlik, hurmattalablik, qizg‘anchig‘lik, manmanlik - noqobil sifatlardir. Shoir odamlarga samimiy maslahatlar beradi. O‘zining ruboiylarida inson qanday qilib o‘zini ma’nan tarbiyalashi kerakligi haqida gapiradi.
+
+ Mazkur mavzuga yuzlanar ekan, insonning hayotdagi eng asosiy vazifasini shoir yaxshilik, bag‘rikenglik va haqiqatda ko‘radi. Do‘stlik - insonning eng asosiy jihati va dushman bilan kurashda ulkan kuch deb hisoblaydi.
+
+ Bobur asarlaridagi adabiy til haqida so‘z borar ekan, undagi soddalik, hammaboplik, ravon va qisqaligini aytish lozim. Shoir balandparvoz gaplarni va mukammal iboralarni yoqtirmagan. Boburning sodda tili o‘quvchiga asarlarini, boy ifodalari va kechinmalarini aniq o‘zlashtirishda yordam beradi.
+
+ Bobur ma’nosiz gap-so‘zlardan qo‘chishga, o‘z fikrlarini qisqa, ravon va oddiy bayon etishga, inson o‘zi tushunmaydigan so‘zlardan foydalanmaslikka chaqiradi. Xususan, u shunday ta’kidlaydi: “Ravshan va toza gaplar yordamida, soddaroq yoz: va senga ham, seni xatingni o‘qiganga ham oson bo‘ladi”.
+
+ Shubhasiz, “Boburnoma”ning ushbu satrlaridan ma’lumki, Boburning she’riy mahorati nasriy asarlariga chuqur va sezilarli ta’sir ko‘rsatib, ulkan badiiy go‘zallik va keng shuhrat baxsh etdi.
+
+ Boburning she’riy mahorati badiiy-adabiy uslub va ona tilining eng ta’sirchan vositalaridan mahorat ila foydalanish hamda xalq ijodiyoti manbalarining ijodiy tiklanishida ifodalanadi.
+
+ Ilmiy asarlari orasida “Aruz haqida risola”si Sharq filologiyasi rivojida alohida o‘rin egallagan. Asar she’riyatning she’riy asoslarini ehtiyotkorona va erishgan yutuqlarining tanqidiy o‘zlashtirish natijasidadir. Bobur prosodilar (nutqdagi urg‘uli va urg‘usiz, uzun va qisqa bo‘g‘inlar tizimi) nazariyasini o‘zining qayd etgan yangi topilmalari, holat va umumlashmalari bilan boyitdi, uning tasnif va turlarini rivojlantirdi.
+
+ U o‘z qarashlarini arab, fors-tojik va turk she’riyati manbalari orqali asoslaydi. Bu orqali olim she’riyatdagi o‘zaro aloqa va hamfikrlikni ko‘rsatish bilan birga, turkiy tilda she’r yozuvchi xalqning cheksiz keng she’riy doirasini namoyon etadi. Alisher Navoiy an’analarini davom etar ekan, u xalq she’riyatiga katta e’tibor qaratgan. Uning asarlari xalq qo‘shiq san’ati janri haqidagi qimmatli ma’lumotlarni va qiziqarli etnografik materiallarni tashkil etadi.
+
+ Mashhur “Boburnoma” - buyuk temuriylar tarixi (1494-1529 yillar voqealari), buyuk hokimiyat yaratilishidan so‘zlaydi. O‘zbekiston Fanlar Akademiyasi Sharqshunoslik institutida “Boburnoma”ning 10 dan ziyod qo‘lyozma nusxalari saqlanadi. Ularning barchasini taqqoslash asosida, boburshunos Porso Shamsiyev mazkur nodir asarga tanqidiy matnni (1960) nashrga tayyorladi. Keyinroq, yapon olimi I.Mano ham “Boburnoma”ga tanqidiy matnni nashr uchun tayyorladi, shuningdek, N. Ilminskiy (1847), Beverij (1905), Fitrat (lavha, 1928) va P. Shamsiyevlar (1960) tomonidan ham chop etilgan.
+
+ Uni fors (1586), golland (1705), ingliz (1826), fransuzs (1871), turk (1940) va rus (1942) tillariga tarjima qilishgan. “Boburnoma” mavzusi asosida F.A. Stil (Parij,1940), F. Grenard (Parij,1930), G. Lemb (Nyu-York,1961), V. Gaskon (Nyu-York,1980), Munila’l (6 roman) va boshqa xorij mualliflarining romanlari ham mavjud. U to‘g‘risida o‘zbek yozuchilari (Oybek, B. Boyqulov, X. Davron) tomonidan dostonlar, roman (P.Qodirov) va qissa (X.Sultonov) ham yozilgan.
+
+ 1521 yil “Mubayyin” nomli falsafiy-diniy asar yozilgan bo‘lib, unda islom shariatining 5 ustuni bayon etilgan, shuningdek, o‘sha yil u “Mubayyinu-l-zakot” soliq chiqimi kitobini ham yozgan. Uning “Harb ishi”, “Musiqa ilmi” kabi ilmiy asarlari hanuz topilmagan.
+
+ Bobur arab grafikasi asosida “Xatti Boburiy”ni tuzgan, u turkiy fonetikaga doir. Ushbu xat asosida Qur’on hamda Boburning shaxsiy asarlari qayta yozilgan.
+
+ U, shuningdek, badiiy tarjimalar bilan ham shug‘ullangan. U Bahovuddin Naqshbandiyning davomchisi, yirik so‘fi Xoji Ahror Valining “Volidiya” (Ota-onalar risolasi) diniy-falsafiy asarini she’riy ko‘rinishda tarjima qilgan.
+
+ Bobur ijodini o‘rganish bo‘yicha Xalqaro ilmiy ekspeditsiya a’zolari bir necha bor shoir “izi” bo‘ylab ilmiy sayohatlar tashkil etishgan, ular tomonidan 500 dan ziyod kitob va hujjatlar topilgan bo‘lib, “Bobur va uning zamonaviy dunyodagi o‘rni” memorial muzeyida saqlanadi. Andijonda Bobur parki bo‘lib, u yerda shoirning ramziy qabri hamda “Ark ichi” memorial majmuasi joylashgan.
+
+ Bobur jamoat va tarixni yuzaki kuzatuvchisi bo‘lmagan, u voqea va hodisalarni, o‘zini havotirga solgan o‘y va his-tuyg‘ularni tahlil qilishga intilgan. Bu fikrlar va hissiyotlar yaxshilik va adolat, haqiqat va go‘zallik tamoyillariga xizmat qilish uchun yo‘naltirilgan edi.
+
+        "</string>
+
+
+    <string name="beruniy">" Al Beruniy — Xorazmning buyuk allomasi, tarix, geografiya, filologiya, astronomiya, matematika, geodeziya, mineralogiya, farmakologiya, geologiya va boshqa ko‘plab fanlarda oid qomusiy asarlar muallifi. Beruniy O‘rta Sharqda ilk bora Yer Quyosh atrofida aylanishi mumkinligini aytib, Yerning aylana o‘lchamini aniqlagan.
+
+ Beruniyni chinakam o‘rta asrlar Sharqining ilm-fan qomusiy olimi desak mubolag‘a bo‘lmaydi. Amerikalik tarixchi Dj.Sarton buyuk olim haqida: “Astronomiya va matematika, astrologiya va jo‘g‘rofiya, antropologiya va etnografiya, arxeologiya va falsafa, botanika va minerologiya uning buyuk nomisiz qashshoqlashib qolgan bo‘lardi” degan.
+
+ Uning to‘liq ismi Abu Rayhon Muhammad ibn Ahmad al-Beruniy. 973 yil 4 sentyabr kuni Xorazmning qadimiy poytaxti Kot shahrida dunyoga kelgan. Beruniy hayotining erta damlari haqida ma’lumot kam, faqat chin yetim bo’lganligi ma’lum. Burni katta bo‘lganligi sababli uni “Burunli” deya atashgan. Biroq, ko‘rimsiz tashqi ko‘rinishi ostida ziyrak aql egasi yashiringan bo‘lib, vaziri va amakivachchasi Xorazmshoh Iroq nazari ostiga tushadi. Qarigan chog‘ida Beruniy shunday yozadi: “… Iroqlar oilasi menga non-choy berib, odamlar orasiga olib chiqdi…”
+
+ U mukammal matematik va falsafiy bilim edi. Beruniyning birinchi ustozi astronomiya, matematika va trigonometriya bo‘yicha tayanch asarlar muallifi Abu Nasr Mansur ibn Iroq al-Jadiy bo‘lgan.
+
+ Beruniyning fikricha, tabiatda barcha narsa tabiat qonuniyati asosida o‘zgaradi, bu qonuniyatlarni esa faqatgina ilm-fan yordamida anglash mumkin. Uning asosiy asarlari matematika va astronomiyaga bag‘ishlangan bo‘lib, Xorazmning xo‘jalik hayotida ulkan amaliy ahamiyatga ega bo‘lgan - yer sug‘orilishi va savdo sayohatlari haqida yozilgan
+
+ U davrda astronomiya fani oldidagi masalalar solnomani mukammallashtirish hamda osmondagi yulduzlar orqali Yerning joylashuvini aniqlashdan iborat bo‘lgan. Quyosh va Oyning osmondagi aniqroq joylashuvini belgilab, ekliptikning ekvatorga engashishi, quyosh va yulduz yillarining uzunligi va boshqalar kabi astronomik doimiyliklarni o‘lchay olish muhim bo‘lgan. Bu esa o‘z o‘rnida, matematika fani rivojini, xususan, bir tarafadan yassi va sferik trigonometriya, boshqasidan aniqroq belgilash uchun asaboblarni talab qilar edi.
+
+ Beruniyning bu sohalardagi yutuqlari bir necha asrlar davomida tengsiz yutuq bo‘lib xizmat qildi. Beruniy Yer radiusini uning aylana shaklga egaligidan kelib chiqqan holda, deyarli aniq belgilagan (6000 km dan ortiq). Beruniy ayrim astronomik muammolar asosida qadim yunon va qadim hind faylasuflarining taraqqiyparvar g‘oyalarini qabul qilib, ularni takomillashtirgan: to‘q jismlar, ya’ni sayyoralardan farqli o‘laroq, Quyosh va yulduzlarning bir xil olovli tabiatini ma’qullagan; yulduzlar harakatini aniqlab, Yerga nisbatan ularning bahaybat o‘lchamini belgilagan; Yerning tortish kuchini o‘rgangan. Beruniy Quyosh Yer atrofida emas, balki Yer uning atrofida aylanishini tasdiqlab, Ptolomeyning dunyo geosentrik tizimini ma’qullashga doir barcha gumonlarga nuqta qo‘ygan.
+
+ U shafaq va kun botishi ufq orqasida yashiringan quyosh nurlaridagi chang zarralarining chiqishi oqibatida yuzaga kelishini tushuntirib bergan. Quyosh tutilishi vaqtida (Quyosh toji) atrofida paydo bo‘luvchi yorqin tarovat haqida “Tutunga o‘xshash” tabiat fikrini aytgan. Beruniy geodezik o‘lchovlarning astronomik usullarini ishlab chiqqan. V. Snelliusdan 600 yil avval masofada trigonometrik o‘lcham usulini taklif qilgan. O‘sha davrlarda foydalanilgan (astrolyabiya, kvadrant, sekstant) asosiy astronomik asboblarni mukammallashtirgan. 400 yil davomida dunyodagi eng katta hisoblangan radiusi 7,5 metrlik birinchi siljimas kvadrantni Quyosh va sayyoralarni kuzatish uchun ixtiro qilgan. U tomonidan olib borilgan ekliptikaning ekvatorga egilganligini o‘lchash ishlari aniqligi bo‘yicha ko‘p asrlar davomida tengsiz bo‘lgan.
+
+ “Qadimiy xalqlar xronologiyasi” nomli ilk asarida (1000 yil) Beruniy o‘sha davrlarda ma’lum bo’lgan barcha xalqlarga tegishli solnoma tizimlarini ta’riflab chiqqan. U tomonidan qilingan astronomik tadqiqotlar va boshqa ilmiy ishlar “Astronomiyaning asosiy boshlanish sharhlari kitobi”da yozilgan.
+
+ Kot va Qo‘rg‘on shaharlarida mahalliy boshqaruvchilar saroylarida, keyinroq shoh Ma’mun saroyida Xorazmda yashagan, taniqli olimlar jamlangan akademiyani boshqargan. Unda Ibn Sino hamda al-Xorazmiylar algebra fani asoschilari bo‘lishgan. Ibn Sino bilan o‘zaro yozishmalari saqlanib qolgan. Unda Arastu kitobi haqida mulohazalar bilan almashinilgan.
+
+ 1017 yildan boshlab, ya’ni Xorazm sulton Mahmud G‘aznaviy tomonidan bosib olingach, G‘azna shahrida sulton Mahmud va uning vorislari Ma’sud hamda Ma’dudlar saroyida yashaydi, Mahmudning Hindistonga qilgan safarlarida qatnashib, bir necha yil shu yerlarda yashaydi ham. Al Beruniy ijodida “G‘azna” bosqichi eng sersamara bosqich bo‘lgan. Shu yillar Hindistonga qilingan safarlari uning tayanch asari bo‘lmish “Hindlarning aqlga sig‘adigan va sig‘maydigan ta’limotlarini aniqlash kitobi” (“Hindiston” 1030 yil tamomlangan) dan joy olgan. Sulton Mahmudning o‘limidan so‘ng taxtni uning o‘g‘li Ma’sud egallaydi. U Beruniyga juda iltifotli bo‘lgan. Beruniy M’sud haqida shunday deydi: “U menga butunday ijod bilan shug‘ullanishim uchun sharoit yaratib berdi, meni o‘z rahnamoligiga oldi…”.
+
+ Bu yillar Beruniy umumiy jahon xaritasi keltirilgan eng asosiy asari “Ma’sudning astronomiya va yulduzlarga oid qonuni” asarini yozadi.
+
+ Beruniyning ilmiy merosi 150 ta asarni o‘z ichiga olgan bo‘lib, ular matematika, astronomiya, jo‘g‘rofiya, minerologiya, tarix, etnografiya, filologiya va falsafaga doir. Tabiat hodisalarini tekshiruvchi olim o‘rnida u raqamlar tushunchasi kengayishi, kubik tenglamalar nazariyasi, sferik trigonometriyaga o‘z hissasini qo‘shgan, trigonometrik jadvalini tuzgan. Arab, fors, yunon, suriy va sanskrit tillarini bilgan va bir tildan boshqasiga tarjima qilishning tabiiy-ilmiy terminologiyalari qoidalarini ishlab chiqqan.
+
+ 1030 yil yakunlangan “Hindiston” asarida hindlarning yashash tarzi, madaniyati va ilm-fanlari haqida batafsil ma’lumot bergan, ularning diniy-falsafiy tizimlarini bayon qilgan. Al Beruniy o‘z ishlarida taqqosiy usuldan foydalangan: “Men hindlarning borlik nazariyasini keltirmoqdaman, bir vaqtning o‘zida yunonlar nazariyasini ham keltirib o‘tmoqdamanki, bu ikki xalqning o‘zaro bog‘liqligini yoritmoqchiman”, deb yozadi. Shu bilan birga u Gomer, Platon, Arastu, Galen va boshqa yunon olimlarini ham eslab o‘tgan, hind va islom fikrlarini taqqoslagan, ayniqsa, so‘fiychilik ta’limotini alohida ajratib, hindlardagi sankxi va yoga nazariyalariga juda yaqinligini aytgan. Turli xalqlar an’analarini taqqoslar ekan, slavyanlar, tibetliklar, xazar, turk va boshqa xalqlarning turmush tarzi an’analari haqida aytib o‘tgan.
+
+ Al Beruniy tomonidan arab grafikasi asosida yaratilgan transkripsiya tizimi ko‘p jihatdan hind tilidagi so‘zlarni urdu tiliga o‘girish bo‘yicha zamonaviy tizimidan ilgarilagan.
+
+ “Hindiston” asarini yozish bilan bir vaqtda “Sankxi” va “Yogasutra Patandjal” asarlarini arab tiliga tarjima qilib, Ptolomeyning “Evklid va Almagesi”ini sanskritga qayta ishlashni boshlagan.
+
+ Tadqiqotchi o‘rnida al Beruniy bilimni astoydil tajriba bilan tekshirish kerakligini alohida ta’kidlagan: tadqiqotlar vaqtida yuzaga keluvchi ikkilanishlarni “bartaraf qilish… mumkin ham, shuningdek, qayta tekshirish ham”. Al Beruniyning tadqiqotchilik bilimi mushohadaga taqqoslangan edi. Go‘yo Arastuning kosmik tizimga oid mushahadalarini shubhaga qo‘ygani kabi.
+
+ Qarilik chog‘ida ko‘z nuridan ayriladi, lekin hayotining so‘nggi daqiqalarigacha hayot “mexanizmi” tetik ruhdadir, degan. Yerga 1048 yil G‘azna shahrida qo‘yilgan.
+
+ Xotira
+ •2009 yil iyun oyida Eron hukumati tomonidan Venadagi Birlashgan Millatlar Tashkilotining bo‘limiga hozirda Vena xalqaro markazi Memorial maydonidan joy olgan Fors olimlari pavilonini tortiq etadi. Fors olimlari paviloni o‘z ichiga to‘rt mashhur olimlarni olgan: Avitsenna, Beruniy, Zokiriy Roziy (Reyz hamda Umar Xayyom).
+
+ •Al Beruniyning ona shahri 1957 yil uning sharafiga Beruniy nomini olgan.
+
+ •1973 yil akademik I.M.Mo‘minov tomonidan O‘zbekistonda Abu Rayhon Beruniy tavalludining 1000 yilligi munosabati bilan tadbirlar o‘tkazilgan.
+
+ •Toshkentdagi Sharqshunoslik ilmiy-tekshirish instituti Abu Rayhon Beruniy nomini olgan.
+
+ •Toshkentdagi Beruniy metro stantsiyasi.
+
+ •Toshkent hamda Xorazmdagi Beruniy hayklalar
+
+ •Toshkent texnika universitetiga ham Beruniy nomi berilgan.
+
+ •Al Beruniy oy vulqoni hamda asteroid 9936 Al Beruniy ham olim sharafiga nomlangan.
+
+ •Taniqli olim S.P.Tolstov o‘zining “Qadimiy Xorazm sivilizatsiyasi izidan” nomli monografiyasini xorazmlik Abu Rayhon al Beruniyga bag‘ishlagan.
+
+        "</string>
+
+    <string name="ibn_sino">" Al Husayn Ibn Abdulloh ibn Al-Hasan ibn Ali Ibn Sino - buyuk olim, tabib, musiqachi. O‘rta Osiyo va Eronda yashagan, turli hukmdorlar paytida tabib va vazir bo‘lgan. Ibn Sino risolalari Sharq hamda G‘arbda bag‘oyat mashhur. “Tib qonunlari” nazariy va klinik meditsina entsiklopediyasi — yunon, rum, hind hamda o‘rta osiyolik tabiblar nuqtai-nazari jamlanmasi — bir necha asr davomida, hatto Ovrupada ham zarur qo‘llanma bo‘lib xizmat qilgan.
+
+ Asosiy qiziqishlari - zamonaviy meditsina yangiliklari, gomeopatiya, xalq tabobati, zamonaviy manbalarni va meditsinaga oid referatlarni o‘rganish. Olimning o‘limidan yuz yildan oshiq vaqt o‘tib, Bog‘doddagi din ishqibozlari Ibn Sinoning falsafiy kitoblarini yoqib yuborishadi, oradan yana bir necha asr o‘tgach, Ovrupada katta dastgoh ixtiro qilingach, “Tib qonunlari” kitobining katta beshta tomi nashrdan chiqarilgan. Bu - Injildan keyingi nashrdan chiqqan ikkinchi kitob bo‘ladi.
+
+ Tabobat ilmining sultoni bo‘lmish Ibn Sino Buxoro yaqinidagi Afshona qishlog‘ida tug‘ilgan. Bizning vaqtimizgacha yetib kelgan o‘zi haqidagi tarjimai xolida yozishicha, “Otam Balxdan bo‘lgan va u yerdan Buxoroga somoniylardan Nuh ibn Mansur hukmronligi davrida keladi va u yerda o‘z ishini devonxonadan boshlaydi. Uning lavozimi -  Buxoro yaqinidagi tuman markazi bo‘lmish Xarmaysanni boshqarish bo‘lgan. Shu yerlarga yaqin qishloqdagi Afshonalik qizni, ya’ni mening bo‘lajak onam Sitora - yulduzni xotinlikka oladi. U yerda avval men, keyin mening akam dunyoga keladi.”
+
+ Ibn Sino fors-doriy tilida suhbatlashuvchi O‘rta Osiyolik bo‘lgan. “Qalbga orom berish uchun” bu tilda u tez-tez to‘rtliklar yozib turgan.
+
+ Ibn Sinoning ota-onasiga Husayn ismi juda yoqqan. Shu sababli birinchi o‘g‘lining ismini Husayn deb qo‘yishgan, lekin aslzodalar, odatda o‘g‘illari va kunyalariga faxriy nom berishgan. “Shubhasiz, mening o‘g‘limning o‘z o‘g‘li bo‘ladi, deya kuladi Abdulloh. Shunday ekan, mening o‘g‘lim Husayn aziyat chekmasin. Bo‘lajak nabiram uchun men ism tanlab qo‘ydim - uning ismi Ali bo‘ladi. Kunyasi Abu Ali bo‘ladi”. Abdulloh bu fikri zoye ekanligini bilmagan ham edi. Husaynning na o‘g‘li, na oilasi bo‘ladi.
+
+ Bir umr karvon yo‘llarida shaharma-shahar kezib, bir hukmdordan boshqasining qo‘liga o‘tib, yo‘l uning uyiga, yo‘lovchilar esa uning yaqinlariga aylanib qoladi. Kichkina Husayn juda qiziquvchan yigitcha bo‘lgan. “Nima uchun?” so‘zi - lug‘atidagi eng ko‘p ishlatiladigan so‘z bo‘lgan. Husayn besh yoshga to‘lganida oilasi Buxoro shahriga ko‘chib o‘tadi. Bolakayni boshlang‘ich musulmonlar maktabiga joylashadi va u yerda o‘n yil ta’lim oladi.
+
+ Xatib Ubayd sinfidagi o‘n beshta bolakay orasida Husayn eng kichigi bo‘lgan. Qur’on oyatlari, suralarni o‘quvchilar arab tilida o‘qishlari lozim bo‘lgan. Ko‘pchilik yigitlar arab tilini bazo‘r tushunishgan. Husayn o‘qishni boshlashi bilanoq ustozini savollar bilan ko‘mib tashlaydi, ammo ustozi shu zahotiyoq oson javob qaytaradi: “Qur’onni o‘rgan. U yerdan barcha savollaringga javob topasan.” Bir vaqtning o‘zida Husayn boshqa o‘qituvchi bilan ham shug‘ullanib, grammatika, uslubiyat va arab tillarini o‘rganadi.
+
+ Kunlardan bir kun kichik Husayn: “Men Qur’onni butunlay yod oldim. Endi savol bersam buladimi?”, deydi. Ustozi esa juda qattiq ranjiydi va “Qur’onni uzoq yillar davomida o‘rganishadi va kamdan-kam musulmonlar uni yod olib, ularni hofiz, deya ulug‘lashadi”, deydi. “Demak, men hofiz ekanman!” - deya tezkor javob qaytaradi, bolakay. Adolatsiz imtixonda Husayn barcha suralarni bir so‘z ham qoldirmay aytib beradi.
+
+ Qur’onni xatib Ubaydning o‘zi ham yoddan bilgan. Shundan keyin Husayn maktabga bormagan. O‘n yoshida, ya’ni 990 yilga borib, Husayn ta’limining boshlang‘ich davrini yakunlaydi. U Qur’onni yoddan aytib, o‘z xotirasi bilan barchani hayratga soladi va arab adabiyotini nihoyatda zo‘r bilishi bilan barchani lol qoldiradi. Shu vaqtdan e’tiboran, Ibn Sino shayh bo‘ladi. Mana, shaxsiy tarjimai xolidan parcha: “O‘n yoshimda men Qur’onni yod oldim va adabiyot fanini o‘rganib katta muvaffaqiyatlarga erishib, barchani qoyil qoldirdim”.
+
+ Aytish joizki, bolakayning misli ko‘rilmagan qobiliyatlari erta sezildi. Uyidagi xush holat o‘spirinning ma’naviy yuksalishiga zamin yaratdi. Ibn Sinoning otasi badavlat va o‘qimishli, ismoilit (sobiq islomga qarshi) o‘qishlariga yaqin kishi bo‘lganki, uni izdoshlari safiga qo‘shgan. Garchi ibn Sino ismoilitlardan bo‘lmagan, lekin ularning xutbalari ma’nosi bilan sinchkoflik ila qiziqqan. Ehtimol, Ibn Sino ismoilitlardan o‘zining Qur’onga bo‘lgan tanqidiy qarashlarini o‘zlashtirgandur.
+
+ Ibn Sinoga falsafa hamda matematikani o‘rgatgan birinchi ustozi Abu Abdulloh an-Notiliy ham ushbu o‘qishlar izdoshidan bo‘lgan. Shogird ustozidan shunchalik o‘tib ketdiki, savol-javoblari bilan ustozini noqulay ahvolga solib qo‘ya boshladi. Ibn Sino tarjimai xolida keyingi holatni ifodalaydi: “Men mazkur ta’rif uchun shunday tahlil qildimki, ilgari bundayini eshitmaganman. U juda xayron qoldida, ota-onamga meni ilmdan boshqa hech narsa bilan band qilmasliklarini maslahat berdi. … Yevklidning kitobi bilan ham shunday voqea soldir bo‘ldi: o‘qituvchim yordamida besh-oltitta teoremani o‘rgandim, qolganlarini esa mustaqil o‘rgandim. Tez orada Natili meni o‘rgatishga ojiz bo‘ldi. “O‘zing o‘qi, teoremalarni o‘zing ishlab, keyin oldimga kel”, dedi. Shundan so‘ng men kitoblarni mustaqil o‘rgandim. Jarayonda menda shunchalik ko‘p savollar uyg‘onardiki, ularga javobni ustozim ham bilmay, oxir-oqibat mendan olgan”.
+
+ Ibn Sino tabobat bilan juda erta qiziqqan va bu soha uning qiziqishlarining katta qismini egallay boshlaydi. Xali 12 yoshga to‘lmasidanoq, Ibn Sino o‘sha vaqtlarning faylasufi va tabibi Abu Salah al-Masihiyning maslahatiga ko‘ra uning ta’limotini egalladi. “So‘ngra men tabiblikka ixlos qo‘yib, tabiblik bilan bog‘liq kitoblarni o‘qiy boshladim - deb yozadi tarjimai xolida.
+
+ Tabobat esa mushkul ilm emas, men uni qisqa fursat ichida shunchalik puxta egalladimki, davrimizning tabiblari oldimga maslahat so‘rab kela boshlashdi. Bemorlarni ko‘rikdan o‘tkazardim, orttirgan tajribalarim natijasida, qarshimda shunday davo eshiklari ochildiki, ta’rifga til ojizdir. Yoshim esa bor-yo‘g‘i o‘n sakkizda edi”.
+
+ Husayn tabobatni buxorolik tabib, bir qator ilmiy ishlar muallifi Abu-l-Mansur Qamariyning qo‘l ostida batafsil o‘rgangan. Qamariyning qo‘l ostidagi ta’limoti uzoq cho‘zilmadi, Ibn Sino mustaqil amaliyot bilan shug‘ullanadi va tez orada shunchalik mashhur shifokor bo‘lib ketadiki, uni saroyga og‘ir kasal bo‘lib qolgan Buxoro amiri Nuh ibn-Mansurni davolash uchun chaqirtiradi.
+
+ Ibn Sinoning o‘zi bu haqda shunday eslaydi: “Kunlardan bir kuni amir qattiq betob bo‘lib qoldi va shifokorlar uning kasalini aniqlay olishmadi. Mening ularga ismim tanish edi va ular amirga men haqimda gapirib, meni chaqirishlarini iltimos qilishdi. Men chaqirilgan joyga borib, ular bilan birga xizmat qildim”.
+
+ Buxoro amirining kasali va Ibn Sino uni nima bilan davolaganligi haqida ma’lumot yo‘q, biroq, muolaja shunchalik yordam berdiki, Buxoroning yorqin amiri Nuh ibn Mansur yana bir yil taxtni boshqargan. Minnatdorchilik evaziga Ibn Sino somoniylarning kitob omboridan foydalanish ruxsatiga ega bo‘lgan. Buxoro kutubxonasi — o‘z davrining eng yirik va eng mashhur kitoblar ombori hisoblangan.
+
+ Ibn Sinoning o‘zi Buxoro kutubxonasida ishlagan davrini ijodiy rivojining eng muhim bosqichi deb hisoblaydi. Shu vaqtdan e’tiboran, uning ta’limi yakunlanib, mustaqil hayot yo‘li bosqichi boshlanadi.
+
+ Ibn Sino somoniylar kutubxonasidan bir necha yillar davomida foydalangan. Ehtimol, o‘z ichiga barcha alomatlari ila kasallik nomlari ko‘rsatilgan, shuningdek, kasallikning kelib chiqish sabablari va davosi kabilarni o‘zida jamlagan umumlashma tibbiyot asarini yaratish g‘oyasi unda Buxoro kutubxonasida ishlagan yillari uyg‘ongan.
+
+ Aynan shu maqsad uchun Ibn Sino turli kitob, referatlardan parchalar ko‘chirib olgan va ularni umumlashtirgan. Shunday qilib, Ibn Sinoning eng muhim asari “Tibbiyot fani qonuni” uchun materiallar tayyorlangan va bu ish ustida u ko‘p yillar ishlagan.
+
+ 999 yil otasi Abdulloh ibn Xasan vafot etadi va Ibn Sinoning yelkasiga yaqinlariga g‘amxo‘rlik qilish vazifasi tushadi. Afsuski, sobiq ismoilitlar oilasiga hokimiyat tepasidagilar qattiq shubha bilan qarashardi, Ibn Sinoning ahvoli juda tang va hatto, xatarli edi. Shu sababli u Xorazmning poytaxti Gurganjga ko‘chib ketishni qaror qiladi.
+
+ Afsuski, Husayn o‘limining oxirigacha musofirchilikda u shahardan boshqachiga ko‘chib, oxir-oqibat ona vataniga qaytib kela olmaydi. U Xorazm, Abiverda, Nishopur, Tua, Gurgan, Rey, Xamadan, Isfagan kabi shaharlar hukmdorlarini ko‘rdi, ko‘plab shahar va qishloqlarda bo‘ldi. Hayotida ko‘p yo‘qotishlarni boshdan kechirdi, ko‘pincha hokimiyat tepasiga chiqib, tez orada yana pastga tushar, goh vazir bo‘lsa, goh zindonga tushar edi, dabdabada ham, yetishmovchilikda ham kun ko‘rdi, lekin o‘zining ijodiy va ilmiy ishini qilmagan biror kun bo‘lmadi.
+
+ 1002 yil Buxoro turklar tomonidan qamal qilinib, somoniylar sulolasi ag‘darilgach, Ibn Sino Xorazm hokimi saroyiga Urganchga yo‘l oladi. U yerda Ibn Sinoni “shifokorlar hokimi” deya nomlashgan. 1008 yil sulton Mahmud G‘aznaviyga xizmati qilishgan bosh tortgan Ibn Sinoning farovon hayoti darbadarlikka almashadi. O‘zining ayrim asarlarini u uzoq safar vaqti egarda yozgan.
+
+ 1015-1024 yillar Xamadonda yashab, ilmiy faoliyatini amirlikning siyosiy va davlat ishlarida faol ishtiroki bilan umumlashtirgan. Amir Shams ad-Davlani muvaffaqiyatli davоlaganligi uchun unga vazirlik lavozimi topshiriladi, ammo atrofini harbiy dushmanlar o‘rab oladi. Amir askarlarning Ibn Sinoga g‘aznani topshirish talablarini rad etadi va uni egallab turgan lavozimidan ozod qilib, hukmronlik qilib turgan yerlaridan tashqariga quvg‘in qilishlarini buyuradi. Oradan qirq kun o‘tib, amirning ahvoli yana yomonlashib qolib. Quvg‘inlikdagi olimni topib, uni yana vazir etib tayinlashlarini buyuradi.
+
+ Amirning o‘limidan so‘ng Isfaxon hokimiga xizmat qilganligi uchun u to‘rt oyga qal’aga zindonband qilinadi. Umrining so‘nggi o‘n tort yili Isfaxonda (1023-1037) amir al-Davla saroyida xizmat qilish bilan o‘tadi. Saroyda u ijod qilishi uchun juda qulay sharoitlar yaratib berishgan. U bosh shifokor va amir maslahatchisi bo‘ladi va hatto uni yurishlarda ham kuzatib borgan. Bu yillar davomida Ibn Sino o‘zining tanqidiy yondashuvi bilan adabiyot va falsafa ta’limoti bilan shug‘ullanadi. Shu bilan birga, sersamara ijodiy ishlarini ham davom ettirgan. Uning ko‘p qo‘lyozmalari, shu jumladan, “Insof kitobi” («Kitab ul-insaf») Isfaxоnga g‘azna qo‘shinlari bosqinchiligi sababli yonib ketgan. Isfaxon podshosining yurishlaridan birida Ibn Sino og‘ir oshqozon kasaliga chalinib, uni tuzata olmaydi. Ibn Sino 1037 yil iyun oyida notanish odamga vasiyatini aytib, vafot etadi. O‘z vasiyatida u barcha qullarini ozod etib, barcha mol-mulkini kambag‘allarga tarqatishlarini so’raydi.
+
+ Avitsenna Xamadonda shahar devori ostiga ko‘milgan, oradan sakkiz oy o‘tgach, uning xoki Isfaxonga olib o‘tiladi va amir maqbarasiga qayta ko‘miladi.
+
+ Ibn Sino tadqiqiy idrokka mukkasidan ketgan va barcha mavjud bilimlarni ensiklopedik darajada egallash ishtiyoqiga ega olim bo‘lgan. Faylasuf g‘ayritabiiy xotira egasi va o‘tkir aql sohibi bo‘lgan.
+
+ Merosi
+
+ Shifo kitobi
+
+ Arab tilida yozilgan ensiklopedik ishi “Shifo kitobi” («Kitab al-Shifa») mantiq, fizika, biologiya, psixologiya, geometriya, arifmetika, musiqa, astronomiya va metafizikaga bag‘ishlangan. “Donishmadlik kitobi” («Danish-name») ham ensiklopediya sanaladi.
+
+ Meditsinaga oid ishlari
+
+ Ibn Inoning asosiy meditsina asarlari
+
+ •“Tibbiyot fani qonuni” («Kitab al-Kanun fi-t-tibb») - ensiklopedik xarakterdagi asar bo‘lib, unda qadimgi davr mediklarining ko‘rsatmalari arab meditsinasining yutuqlari bilan o‘zaro qayta ishlangan. “Qonun”da Ibn Sino kasalliklar allaqanday mayda bo‘laklar oqibatida paydo bo‘lishini ko‘rsatgan. U birinchi bo‘lib chechakning yuqumliligiga e’tibor qaratgan, vabo va o‘latning farqini aniqlagan, moxo‘v kasalligining boshqalardan farqini ko‘rsatib, unga izoh bergan va boshqa bir qator kasalliklarni o‘rganib chiqqan. “Tibbiyot fani qonuni”ning lotin tiliga o‘girilgan ko‘plab tarjimalari mavjud. “Qonun” besh qismdan iborat bo’lib, ikkisi dori vositalari va dorivorlarga hamda ularning tayyorlanish ta’rifiga bag‘ishlangan. Kitobda keltirilgan 2600 dori vositalaridan 1400 tasining kelib chiqishi o‘simlik ko‘rinishidadir.
+
+ •“Dori vositalari” («Al-Adviyat al kalbiya») — Xamadonga birinchi borishi vaqtida yozgan. Mazkur asarda pnevma hosil bo‘lganda va namoyon bo‘lganda yurak faoliyati, xususan, yurak kasalligi va davosi haqida batafsil yoritib berilgan.
+
+ •“Xatolarni to‘g‘irlash va ogohlantirish orqali turli usullarda olib tashlash” («Daf’ al-mazorr al kulliya an al-abdon al insoniya bi-tadorik anvo’ xato an-tadbir»).
+
+ •“Sharobning foydasi va zarari haqida” («Siyosat al-badan va fazoil ash-sharob va manofi’ix va mazorix») — Ibn Sinoning eng qisqa risolasi.
+
+ •“Tabobat haqida doston” («Urdjusa fit-tib»).
+
+ •“Tomir urushi haqida risola” («Risolayi nabziya»).
+
+ •“Sayohatchilar uchun tadbirlar” («Fi tadbir al-musofirin»).
+
+ •“Shahvoniy kuch haqida risola” («Risola fil-l-box») — kasallik, uni oldini olish va shahvat buzulishlarini davolash ifodalangan.
+
+ •“Sirka-asal haqida risola” («Risola fi-s-sikandjubin») — turli tarkibga ega sirka va asalni tayyorlash va kasalliklarda iste’moli ta’riflangan.
+
+ •“Sachratqi haqida risola” («Risola fil-xindabo»).
+
+ •“Qon olishda qon tomirlar” («Risola fil-uruk al-mafsuda»).
+
+ •«Risola-yi judiya» — quloq, oshqozon, tish kasalliklari ta’rifi keltirilgan. Bundan tashqari, unda gigiyena muammolari keltirilgan. Ayrim tadqiqotchilar Avitsennaning muallifligiga shubha qilishadi.
+
+ Sog‘lomlashtiruvchi mashqlar
+
+ Ibn Sino o‘z asarlarida jismoniy mashqlarining sog‘lomlashtiruvchi va davolovchi tajribadagi o‘rni va roli haqida yozadi. Jismoniy mashqlarga to‘xtovsiz, chuqur nafas olishga olib keluvchi erkin harakatlar, deya ta’rif bergan.
+
+ Agar inson mo‘’tadil va o‘z vaqtida jismoniy mashqlar bilan shug‘ullansa va tartibga rioya qilsa, u davoga ham, dorilarga ham muhtoj bo‘lmaydi, deya tasdiqlagan. Mashqlarni to‘xtatar ekan, u so‘nadi. Jismoniy mashqlar mushaklarni, bo‘g‘imlarni, asabni mustahkam qiladi. Shuningdek, u mashqlarni bajarishda yoshni ham inobatga olishni maslahat bergan. Uqalash, sovuq va issiq suvda chiniqish kabi muolajalarda to‘xtalgan.
+
+ Kimyo
+
+ Kimyo sohasida Ibn Sino efir moylarini haydash jarayonini ochgan. Xlorid, oltingugurt va azot kislotalari, kaliy va natriy gidroksidini chiqara olgan.
+
+ Astronomiya
+
+ Ibn Sino astronomiya sohasida Arastuning yulduzlarga Quyosh nuridan yorug‘lik tushadi degan qarashlariga qarshi chiqarkan, yulduzlar o‘z yorug‘ligi bilan porlaydi, shuningdek, sayyoralar ham o‘zi nur sochadi, deya tahmin qilgan. 1032 yil 24 may kuni Zuhra sayyorasi Quyosh gardishidan o‘tayotganini kuzatganini ma’lum qilgan. Biroq, hozirgi zamon olimlari mazkur o‘tish aynan shu yerda va shu vaqtda bo‘lganligiga gumon qilishadi. Bu kuzatuvdan u ptolomey kosmologiyasiga binoan, Zuhra sayyorasi gohida Yerga Quyoshdan ko‘ra yaqinoq kelishini asoslash maqsadida foydalangan.
+
+ Ibn Sino, shuningdek, Ptolomey kitobiga izohi bilan Almagest kompediumini yozgan.
+
+ Gurgandaligida Ibn Sino shu shaharning jo‘g‘rofik koordinatlari haqida risola yozgan. Ibn Sino Abu -l -Vafo va al-Beruniylar qo‘llagan usuldan foydalana olmagan va yangi usulni taklif qilgan. Unga ko‘ra, u Oyning eng baland nuqtasining o‘lchami va Bog‘dod balandligini taqqoslash orqali sferik trigonometriya qoidalari asosida hisoblashni taklif qilgan.
+
+ “Kuzatilinayotgan asbobni loyihalashda boshqa usullardan afzal usul kitobi”da Ibn Sino o‘zi ixtiro qilgan kuzatuv asbobiga ta’rif berarkan, uning fikricha, astrolyabiyani o‘rnini bosishi kerak bo‘lgan; bu asbobda o‘lchovni aniqlash uchun ilk bora nonius usulidan foydalanilgan.
+
+ Mexanika
+
+ Ibn Sino to‘plangan (yoki qayd qilingan) kuch nazariyasiga katta xissa qo‘shgan. Bu - o‘rta asr harakat nazariyasi bo‘lib, tana sarf qilgan harakat (keyinroq impetus nomini olgan) shunday kuchki, u tashqi manbalardan to‘plangan. Uning fikricha, “harakatga keltiruvchi kuch” (inson qo‘li, tarang tortilgan kamon ipi, palaqmon va boshqalar) harakatlanayotgan tanaga ba’zi “intilish” haqida xabar beradi, go‘yo olov suvga issiqlik uzatgani kabi. Harakatga keltiruvchi kuch o‘rnida, shuningdek, og‘irlik ham bo‘lishi mumkin.
+
+ “Intilish” uch xil bo‘ladi: ruhiy (tirik jonzotlarda), tabiiy va g‘ayritabiiy. “Tabiiy intilish” og‘irlik va tana tushishi natijasida yuzaga keladi, ya’ni Arastu ta’limotiga ko‘ra tananing tabiiy harakat holatida. Bunday holatda “intilish” harakatsiz tana holatida harakatga qarshilik ko‘rsatgan holda bo‘lishi ham mumkin. “G‘ayritabiiy intilish” filoponovsk harakatlanayotgan kuch analogi bo‘lib, u tashlangan tananing “harakatga keltiruvchi kuch”iga xabar beradi. Bo‘shliqda “g‘ayritabiiy intilish” o‘zgarmaganda edi, tana betinim harakatni amalga oshira olgan bo‘lar edi. Bunda olim inersiya tushunchasini oldindan ko‘rganligini payqash mumkin, lekin Avitsenna bo‘shliq tushunchasiga ishonmagan. Ibn Sino “G‘ayritabiiy intilish”ga miqdoriy baho berishga uringan: uning fikriga ko‘ra, u vazn hamda tana harakati tezligiga teng.
+
+ Ehtimol, Ibn Sinoning lotin tilidagi sarflangan kuch haqidagi g‘oyalari G‘arbda mashhur bo‘lib, Buridanning impetus nazariyasi rivojiga zamin bo‘lgandur.
+
+ Falsafa
+
+ Ibn Sino metafizika fani tushunchasida Arastu izidan borgan. Al Farobiydan keyin u mavjudlik va mavjud emaslik o‘rtasidagi farqni boshqalarga nisbatan hamda mavjudlik va mavjud emaslik o‘rtasidagi farqni o‘ziga nisbatan ko‘rsatadi. Ibn Sino Yaratganning abadiy ekanligini ta’kidlaydi. Abadiylik tushunchasini Ibn Sino emanatsiyaning nooplatonik tushunchasi yordamida tushuntirib, shu orqali u boshlang‘ich yagonalikdan ko‘plik jonzotlar dunyosiga o‘tishni mantiqiy yoritib bergan. Biroq, koinotga bir kishi kelib chiqishining yakuniy natijasi sifatida emas, balki barcha ixtiyoriy mavjudodning zarur elementi sifatida qarab, nooplatonik tushunchadan farqli ravishda, emanatsiya jarayonini samoviy osmon olami bilan chegaralab qo‘ydi. Koinot uch olamga bo‘lingan: moddiy dunyo, yaralmagan abadiy qiyofa dunyosi va dunyoning barcha xilma-xilliklarini o‘zida jalb qilgan dunyo. Inson tanasi va qalb birligi tirik jonni hosil qiladi; falsafiy fikrlovchi insonga aqlli qalbni qabul qilishga moyil tana asos bo‘ladi. Mutloq haqiqatga fikrlash jarayonining eng yuqori nuqtasida hozir bo‘luvchi ichki hissiyot orqali erishiladi.
+
+ Ibn Sinoning tasavvuf asarlar doirasiga “Qushlar haqida kitob”, “Sevgi haqida kitob”, “Duo mohiyati haqida kitob”, “Ziyoratchilik mohiyati haqida kitob”, “O‘limdan qo‘rqishdan halos bo‘lish haqidagi kitob”, “Qismat kitobi” kabilar kiradi.
+
+ Tanqid
+
+ Avitsennaning falsafiy qarashlariga doir g‘oyalari tarafdorlari hamda unga qarshilar o‘rtasida o‘tkir kurash olib borilgan. Toki, uning falsafasi insonni Xudodan uzoqlashtirishini aytib ayblashgan. Shunga qaramay, ko‘pchilik so‘fiylar Avitsennaning falsafiy uslubiga taqlid qilishgan.
+
+ Muhammad al-G‘azaliy o‘zining mashhur “Faylasuflarni rad qilish” kitobida Ibn Sino falsafasini raddiya qilishga harakat qilgan. Boshlang‘ich va adabiylik ta’limotiga qarshi chiqqan, zero, al G‘azaliyning fikriga ko‘ra, bu - islom monoteizmiga qarshi chiqib, dualizmga olib keladi. Al G‘azaliy, shuningdek, Xudo dunyoni ixtiyorsiz ravishda, tabiiy zaruriyat sababli yaratadi, deya yuritiluvchi emanatsiya nuqtai nazarini ham rad etadi. Shu bilan birga, u Ibn Sinoning tana qayta tirilishining imkonsizligi va besababligi haqidagi nazariyasiga qo‘shilmagan.
+
+ Keyingroq XII asrning mutafakkirlaridan Muhammad Shahristoniy o‘zining “Kitab al Musaraa” asarida hamda Fahruddin Roziylar al G‘azaliy yo‘lidan ketishgan. Sharqiy peripatetizm g‘oyasini himoya qilib, XII asrda ibn Rushd o‘zining “Raddiyatlarni rad etish” kitobini taqdim qiladi. Natijada, Ibn Sino g‘oyalarini Nasr ad-Din at-Tusiy himoya qilib chiqadi.
+
+ Psixologiya
+
+ Ibn Sino, shuningdek, temperament va inson xarakteri haqida o‘z ta’limotini ishlab chiqqan. Unga ko‘ra, inson mijozi to‘rtga bo‘linadi: issiq, sovuq, nam va quruq (zamonaviy psixologiyadagi to‘rt mijozga mos ravishda). Mazkur mijozlar turg‘un emas, balki meteorologik va havo o‘zgarishi kabi tashqi yoki ichki omillar natijasida o‘zgaradi. Organizmdagi suyuqlik darajasi ham inson mijoziga o‘zgarishlar kiritishi mumkin. Oddiy mijoz turlari bilan birga, Avitsenna yana to‘rt mukammal mijozni ajratib, ular organizmdagi to‘rt suyuqlikdan biri (qon, shilliq, sariq va qora safro) ustun kelishiga ko‘ra tuslanishini bayon qilgan.
+
+ Adabiyot
+
+ Ibn Sino o‘zining ko‘pgina ilmiy ishlarini to‘rtliklardan foydalanib, doston ko‘rinishida yozgan. Shunday shaklda “Sevgi haqida risola”, “Qushlar haqida risola” va boshqa asarlari yozilgan. Ijodi namunalari orasida she’riy to‘rtliklar hamda ruboilar ham uchrab turadi.
+
+ Ibn Sinoning asosiy adabiy asarlari — falsafiy kinoya-qissa “Xay ibn Yakzan”, yigirmata ikki misrali “Qushlar” bayti, “Salomon va Absal”. Mazkur asarlar va ruboilar arab, eron va turk adabiyoti rivojida katta o‘rin egallaydi. Jumladan, XII asr eron ijodkorlaridan mumtoz shoir Umar Xayyom Ibn Sinoni o‘z ustozi deb bilgan.
+
+
+     "<string />
+
+ Bobur (taxallusi; toʻliq ismi Zahiriddin Muhammad ibn Umarshayx Mirzo; 1483-yil 14-fevral – 1530-yil 26-dekabr) — oʻzbek mumtoz adabiyotining yirik vakili, shoir, tarixchi, geograf, davlat arbobi, isteʼdodli sarkarda, boburiylar sulolasi asoschisi, temuriy shoh boʻlgan. Amir Temurning pannevarasi boʻlgan.[1] Bobur oʻz davrining buyuk shaxslaridan biridir. Uning sheʼrlari,ruboiylari oʻz vaqtida va hozir ham sevib oʻqilmoqda. 6 ta xotini boʻlgan. Bibi Muboraka, Mohimbegim, Zaynab Sulton Begim, Oysha Sulton Begim, Maʼsuma Sulton Begim va Soliha Sulton Begim.Boburning otasi — Umarshayx Mirzo Fargʻona viloyati hokimi, onasi — Qutlugʻ Nigorxonim Moʻgʻuliston xoni va Toshkent hokimi Yunusxonning qizi edi. Bobur ota tomondan Amir Temurning uchinchi o‘g‘li Mironshoh Mirzo naslidan bo\'lsa, ona tomonidan Tug‘luq Temurxonning o‘g‘li Xizr Xo‘jaxon naslidan edi uning yettinchi avlodi edi
+
+
+     .</string>
+
+    <string name="mirzo">" Mirzo Muhammad ibn Shohruh ibn Temur Ulug‘bek Qo‘rag‘oniy (1394-1449) - buyuk astronom va matematik, o‘z davrining atoqli allomasi, davlat arbobi, Movaraunnahrni 1441-1449 yillar boshqargan, mashhur hukmdor va sohibqiron Amir Temurning nabirasi.
+
+ Ulug‘bek (Muhammad Tarag‘ay) 1394 yil 22 mart kuni hozirgi Ozarbayjon hududidagi Sultoniya shahrida tavallud topgan.
+
+ 1405 yil, Markaziy Osiyodan tashqari, Yaqin va O‘rta Sharqning barcha hududi, O‘rtayer dengizidan Shimoiy Hindistongacha bo‘lgan katta yerni o‘z ichiga olgan ulkan saltanatni yaratgan buyuk sohibqironning o‘limidan so‘ng, butun merosiy mulki uning o‘g‘il va nabiralariga o‘tadi. Temuriylar saltanatining tepasiga Hirot qarorgohida saylangan Temurning o‘g‘li - Shohruh o‘tiradi.
+
+ Mavaraunnahr boshqaruvi Shohruhning to‘ng‘ich o‘g‘li, Amir Temurning nabirasi Ulug‘bekka topshiriladi. 1409 yil Ulug‘bek Samarqand hokimi etib e’lon qilinadi, otasi Shohruhning o‘limidan so‘ng, 1447 yil Temuriylar sulolasiga bosh bo‘ladi.
+
+ Yoshligida Ulug‘bek fan va san’at turlariga, ayniqsa, matematik va astronomiyaga katta qiziqish bildiradi. Uning aqliy dunyoqarashi kengayishida otasi va bobosi to‘plagan boy kutubxona zamin bo‘ldi, u yerda ko‘p vaqtini o‘tkazardi.
+
+ Ulug‘bek u vaqtlar o‘lchovi bilan qaraganda, juda zo‘r ta’lim olgan. Ajoyib xotira egasi bo‘lib, u arab va fors tilini erkin egallagan, turk she’riyatini yaxshi bilgan, adabiy uslublarni egallagan va adabiy bahslarda ishtirok etgan. O‘zi ham she’rlar yozgan. Ulug‘bekning ustozi taniqli olim, Temuriylar saroyidagi mashhur matematik va astronom Qozizoda Rumiy bo‘lgan. U to‘qqiz yasharli Ulug‘bekka Marog‘adagi mashhur rasadxona xarobalarini ko‘rsatgan. Yoshlikdagi aynan shu xotiralari bo‘lajak astronom kelajagini belgilagan bo‘lishi mumkin. Ulug‘bek davrida Samarqand o‘rta asrlar davridagi ilm-fan o‘choqlaridan biriga aylangan. Samarqandda, XV asrning birinchi yarmida Ulug‘bekning atrofida G‘iyosiddin Jamshid Koshiy, Qozizoda Rumiy, Ali Qushchi kabi taniqli astronom va matematiklarni birlashtirgan butun bir ilmiy maktab vujudga keldi. U vaqtlar Samarqandda O‘rta Osiyo tarixi haqida ajoyib asar yozgan tarixshunos Hofiziy Abru, taniqli shifokor Mavlono Nefis, shoirlar Sirojiddin Samarqandiy, Sakkokiy, Lutfiy, Badaxshiy va boshqalar yashagan. Ular insoniyat aqli, fanning kuchiga ishongan o‘z davrining ilg‘or shaxslari bo‘lishgan.
+
+ 1417-1420 yillar Ulug‘bek Samarqandda madrasa qurdirib, Registonda barpo etilgan birinchi me’moriy ansamblga aylanadi. Ushbu madrasaga Ulug‘bek islom olamining ko‘plab astronom va matematiklarini taklif etadi. Qolgan ikkita madrasa G‘ijduvon va Buxoroda qurilgan. Ulug‘bek tomonidan qurilgan madrasalar universitet vazifasini bajargan. Ulug‘bekning Buxoroda qurdirgan madrasasi peshtoqida “Ilmga intilish har bir musulmon uchun farzdir” yozuvi saqlanib qolgan.
+
+ Ammo Ulug‘bekning katta ishtiyoqi - bu astronomiya bo‘lgan. Ulug‘bek hayotining mazmuni va Qozizoda Rumiy, Jamshid G‘iyosiddin al Koshiy, Ali Qushchi kabi astronom izdosh-olimlar rasadxona qurilishiga turtki bo‘lgan.
+
+ Tadqiqotchi olimlarning fikricha, rasadxona qurilishi 1428-1429 yillan yakunlangan. Rasadxona o‘z davrining nodir binosi bo‘lgan. Yer silkinishiga bardoshli bo‘lishi uchun bino qurilishi uchun Qo‘hak tepaligining toshli etagi tanlangan.
+
+ Asosiy asbob - sekstant (burchak o‘lchagich) - janubdan shimol tomon meridian chiziqlari bo‘ylab mo‘ljallangan. Asosiy asbobdan tashqari, rasadxonada boshqa astronomik anjomlar ham bo‘lgan.
+
+ Ehtimol, aniq astronomik kuzatishlarni amalga oshirishiga sekstantning o‘lchami, uning qulay tuzilishi, Ulug‘bekning bilimlari va uning sherigi sabab bo’lgan. Buyuk astronom Ulug‘bek rahbarligi va ishtirokida rasadxonaning asosiy ishi “Zidjiy Ko‘rag‘oniy”, “Ulug‘bekning yulduzlar jadvali” tuzilgan. Kitobda ushbu Samarqand observatoriyasidan 1018 ta yulduz joylashuvi aql bovar qilmas aniqlikda, Gipparxdan so‘ng ilk bor belgilangan. Astronomik turkum yaratilishi jahon astronomiya fani xazinasiga qo‘shilgan ulkan hissa hisoblanadi.
+
+ Bundan tashqari, rasadxonada ekliptikning ekvatorga qiyaligi va yulduz yilining uzunligini belgilash; sinusning bir burchakdagi ahamiyatini - muhim astronomik doimiylikni - verguldan so‘ng o‘n sakkizinchi belgigacha aniqlikda hisoblash bo‘yicha ishlar olib borilgan.
+
+ Ulug‘bek o‘z ma’lumotlarini bir necha bor tekshirib, uning sonlarini to‘g‘ri, degan xulosaga keladi. 1437 yil u astronomik yil uzunligini aniqlaydi: 365 kun 6 soat 10 daqiqa 8 soniya. Keyinroq o‘zgarishlar farqi 58 soniyada ekanligi aniq bo‘lgan. Agar astronomik yil uzunligi 31 million 558 ming 150 soniya ekanligini inobatga olsa, Ulug‘bek o‘z o‘lchamlarini naqadar yuqori aniqlikda olib borganligiga amin bo’lish mumkin.
+
+ Buyuk olim bo‘lish bilan birga, Ulug‘bek kuchsiz sarkarda edi. Asosiy vaqtini rasadxonada o‘tkazar edi va davlat ishlariga kam vaqt ajratgan. Ulug‘bekning to‘ng‘ich o‘g‘li Abdulatif, ruhoniylarning keskin ta’siri ostida otasiga qarshi urush e’lon qiladi. O‘g‘li otasiga Makka ziyoratiga borishlikni taklif qiladi. 1449 yil Makkaga safari chog‘i Ulug‘bek shariat qaroriga muvofiq, xoinona o‘ldiriladi.
+
+ Buyuk Ulug‘bekning fojiali o‘limidan so‘ng, uning yorqin yulduzi so‘nmadi. Ulug‘bekning sodiq shogirdi Ali Qushchi, ona Samarqandini tark etishga majbul bo‘lib, Ulug‘bekning “Zidjiy Ko‘rag‘oniy” kitobini Ovrupaga olib chiqib ketadi. Keyinchalik kitob ko‘plab olimlar avlodining mulkiga aylandi. Ulug‘bekning ismi va mehnatlari Ovrupa va Osiyo olimlari orasida mashhur bo‘ldi. XVII asrda Yan Geveliy tomonidan nashr etilgan Ulug‘bekning “Yulduzli osmon turkumi”da turli zamon va makonlarda yashab o‘tgan buyuk dunyo astronomlarining aksi tushirilgan naqsh mavjud. Ular astronomiya ilhom manbai bo‘lmish Uraniyaning ikki tomonida stol qarshisida o‘tirishgan holda aks ettirilgan. Ular orasida Ulug‘bek ham bor. Nashq muallifi Ulug‘bekni portretiga ega bo‘lmay, uning suratini tushirgan.
+
+ Ulug‘bekning asosiy ilmiy mehnati “Zidjiy jadidi Ko‘rag‘oniy” hisoblanadi yoki “Gurgonning yangi astronomiy jadvali” deb nomlanadi. Muallif ushbu asarni 1444 yil, o‘ttiz yillik tirishqoqlik va astronomik kuzatuvlardan so‘ng yakunlagan. Astronomik ma’lumotnoma tez orada, Klavdiya Ptolemeyning “Almagest”  hamda butun Ovrupa rasadxonalarida qo‘llanma hisoblangan kastiliya qiroli Alfons XVning astronomik jadvali bilan bir vaqtda lotin tiliga o‘girilgan.
+
+ Mazkur jadvallarning aniqligi avvalroq Sharqda hamda Ovrupada erishilgan yutuqlardan ilgarilagan. XVII asrga kelibgina, Tixo Brag samarqandlik kuzatuvlarga teng keladigan aniqlikka muvaffaq bo‘lib, keyinroq, undan ham aniqroq natijaga erishgan. “Ulug‘bekning Zidji” Sharqda bo‘lgani kabi, Ovrupa astronomlarining diqqatini o‘ziga tortganligining hayratlanarli yeri yo‘q.
+
+ “Ulug‘bekning Zidji” to‘rt yirik qilsmdan iborat. Xronologiya nomini olgan birinchi qismida turli Sharq xalqlari tomonidan qabul qilingan xronologik usullar bayon etilgan. Ikkinchi qismida amaliy astronomiya masalalari ifodalangan, uchinchisi — dunyoning geomarkaziy tizimi asosida ko‘zga ko‘rinarli yulduzlar harakati haqida ma’lumot bersa, to‘rtinchisi astrologiyaga bag‘ishlanadi — o‘rta asrlar dunyoqarashi fanining muqarrar taqdiri.
+
+ Ulug‘bek hisoblab chiqqan 1018 yulduz turkumi qadimiy xronogiyani o‘rganuvchi astronomlar va tarixshunoslar uchun kompas vazifasini o‘taydi. Ulug‘bekning yulduzlar jadvali “Almagest”da keltirilgan Ptolomeyning yulduzlar xaritasining haqiqiyligini tasdiqlaydi.
+
+ 1648 yil Oksfordda — fan va madaniyatning eng qadimiy o‘choqlaridan bo‘lmish Angliyada ilk bor Ulug‘bekning mashhur Samarqand rasadxonasida amalga oshirilgan asosiy ishi qisman nashr etilgan. Ishni nashr uchun tayyorlab, unga sharh yozgan Jon Grivs (1602 - 1652), Oksford universitetining astronomiya professori. Keyinchalik, turkum lavhalari Angliyada bir necha bor chop etilgan.
+
+ Ilk oksfordlik nashrdan 17 yil o‘tgach, olim, Oksforddagi Bodleyansk kutubxonasi qo‘riqchisi, angliyalik sharqshunos va tarjimon Tomas Xayd (1636-1703) samarqandlik nashrni fors va lotin tillarida yangi nashr uchun tayyorlab, “Tabulae Long, as Lat. Stellarum Fixarum, ex observatione Ulugh Beighi”, Oxonii nomlari ostida chop etgan, 1665.
+
+ Ulug‘bek jadvallarining Ovrupada chop etilishi, shu o‘rinda, tuzish uchun ulkan va sermashshaq kuzatuv va hisob mehnatini talab qiluvchi o‘ziga xos yulduzlar katalogi sanoqli shaxslar tomonidan hisoblangan va osmon tadqiqotchilari tomonidan yuqori baholangan.
+
+ Xaydning oksfordik nashridan 25 yil o‘tgach, Ulug‘bek jadvalining ma’lumotlari polyak astronomi Yan Geveliyning (1611-1687) Gdanskda chop etigan “Prodromus Astronomiae” kitobi sahifalaridan joy oladi. Bu yerda o‘z vaqtida mavjud bo‘lgan turkumlardagi ma’lumotlar o‘rtasida taqqoslash keltirilgan: Ptolemey, Tixo Brag, Richchioli, shahzoda Gass va Geveliy.
+
+ 1839 yil fransuzs sharqshunosi L.A.Sediyo (1808-1876) Ulug‘bek jadvalini “Tables astronomigue d'Oloug Beg, commentees et publiees avec le texte en regard” nomi ostida qisman chop ettiradi, I bob, I bo‘lim, Parij, 1839.
+
+ Va, nihoyat, Buyuk Britaniya kutubxonalarida saqlangan 8 ta qo‘lyozmani o‘rganish asosidagi Ulug‘bek jadvalining aniqroq tahlili 1917 yil AQShda E. B. Nobl tomonidan “Ulugh Beg's Catalogue of Stars. Revised from all Persian Manuscripts Existing in Great Britain” nomi ostida chop etilgan.
+
+ Aytish joizki, Ovrupa va Osiyo kitob saqlanuvchi omborlarda “Zidjiy”ning o‘nlab qo‘lyozmalari mavjud. Ulug‘bekning yulduzlar jadvali o‘rta asrlar astronomiyasining so‘ng so‘zi bo‘ldi. Mazkur jadval teleskop ixtirosidan avvalgi, o‘rta asrlar astronomiya fanining eng yuqori  poyasi bo‘ldi.
+
+ Ulug‘bekning boy ilmiy merosi u faqatgina buyuk musulmon o‘g‘loni bo‘lmaganligini tasdiqlaydi. Ijodiy tafakkur dahosi butun insoniyat ilm-fani va sivilizatsiyasi rivojiga bebaho hissa qo‘shgan. Shu sababli, ko‘p asrlar o‘tib, hatto bugun ham Ulug‘bekning ismi savob maqsadlarga erishish niyatida Sharq va G‘arb xalqlarini birlashtirgan timsol bo‘lib qoladi.
+
+ Mirzo Ulug‘bekning yuqori ma’naviy va sezilarli merosi dunyoning yetakchi o‘quv muassasalarida va ilmiy markazlarida o‘rganib kelinadi. O‘zbekiston Respublikasining Birinchi Prezidenti Islom Karimovning tashabbusi bilan, O‘zbekiston Milliy universiteti ushbu atoqli olim sharafiga nomlanganligi respublikaning bugungi yuqori ilmiy-ma’naviy qudratini tasdiqlaydi.
+
+ 1994 yil olim tavalludining 600 yillik yubileyi xalqaro miqyosda nishonlangan, shu sabab, xorij olimlari, mutaxassislari va jamoat arboblari ishtirokida bir qator tadbirlar o‘tkazilgan.
+
+ 2009 yil Parijda Mirzo Ulug‘bek tavalludining 615 yilligiga bag‘ishlangan xalqaro ilmiy anjuman o‘tkazilgan. Anjumanda 130 dan ziyod olimlar va turli xalqaro tashkilot vakillari ishtirok etgan.
+
+ O‘tkazib kelinayotgan tadbirlardan butun dunyoda Mirzo Ulug‘bekning ilmiy va ma’naviy merosiga bo‘lgan qiziqish naqadar ulkanligi yaqqol ko‘rinib turibdi.
+
+     "</string>
+
+
+    <string name="al_xorazimiy" tools:ignore="Typos">" O‘zining daho kashfiyotlari bilan dunyo ilm-faniga bebaho hissa qo‘shgan olim  - Muhammad al-Xorazmiydir. Yoshligi bilan bog‘liq ma’lumotlar saqlanib qolmagan. Biroq, 800 yillarning boshlarida Xurosonning Bog‘doddagi hokimi - Ma’mun ibn Xorun ar-Rashidning saroyiga taklif qilinganligini inobatga olgan holda, u ona yurti Xorazmda ta’lim olib, yigirma yoshlaridayoq mashhur olim bo‘lib ulgurgan. 813 yilda Ma’mun xaliflik tojini egallaydi va Marvda atrofiga yig‘ilgan olimlar bilan birga Bog‘dodga ko‘chib o‘tadi. Fanning yirik ishqivozi Ma’mun ilm-fan tarixida “Bog‘dod akademiyasi” deb nomlanmish “Bayt al-hikma”ga (“Donolik uyi”) asos soladi. Muhammad al-Хorazmiy umrining oxirigacha ushbu ilmiy markaz boshqaruvchisi bo‘lgan. Bu yerda Markaziy Osiyo mamlakatlaridan kelgan arab Sharqining ko‘plab olimlari ham faoliyat ko‘rsatgan. Ular uchun qadimiy qo‘lyozmalarga boy kutubxona hamda maxsus qurilgan observatoriya xizmat ko‘rsatgan.
+
+ Asosiy ilmiy ishlari
+
+ Muhammad al-Xorazmiy 20 dan ziyod ilmiy asarlar muallifi bo‘lgan, ulardan 7 tasi bizning davrimizgacha saqlanib qolgan. Jumladan:
+
+ “Fi xisab al-Xind” (arab tilidagi “Hindcha hisob haqida kitob”) – o’nlik pozitsion hisoblash tizimini ifodalovchi va nol belgisi bor, to‘qqizta raqamni bayon etuvchi asar.
+
+ “Al-kitob al-muxtasar fi hisob al-jabr va al-muqobala”. (Arab tilida yozilgan “Al-jabr va al-muqobala hisobi haqida qisqacha kitob”) - muallif tomonidan algebra fan sifatida ko‘rilib, “Algebra” deb nom olgan kitob.
+
+ Ziji al-Xorazmiy (arab tilida yozilgan (“Zij”) “Astronomik jadval”) - sinuslarning trigonometrik funksiyalari keltirilgan kichik nazariy bo‘lim va jadvallardan tashkil topgan asar.
+
+ “Kitob surat al-arz” (arab tilida yozilgan “Yer surati kitobi”) - O‘rta asrlarda ilk bor odamzod yashayotgan yer sayyorasining sharqiy yarmi, undagi mamlakatlar, Tinch okeani (Baxr al-muzallam) hamda sayyoramiz xaritasi keltirilgan geografik risola.
+
+ Jahon ilm-faniga qo‘shgan hissasi
+
+ Muhammad al-Xorazmiy matematika, astronomiya va geografiya fanlariga, ular orqali sivilizatsiya rivojiga umumiy qo‘shgan muhim hissasi:
+
+ 1. O’nlik pozitsion hisobni ifodalovchi, nol belgisi bor to‘qqizta raqamni bayon etuvchi sanoq tizimiga asos solgan.
+
+ 2. Fan sifatida Algebrani yaratdi va unga shu nomni berdi.
+
+ 3. Ovrupa adabiyotida “Algoritm” deya nom olgan aniq va tushunarli qoidalar orqali ilmiy va ta’limiy asarlarning yangi usulini ishlab chiqdi va ularni yo‘lga qo‘ydi. Lotin tilida “algoritm” talaffuzi uning ismi - al-Xorazmiyga tenglashadi. Mazkur - algoritm tushunchasi butun zamonaviy raqamli axborot va kompyuter texnologiyalari tushunchasi asosini tashkil qiladi. Aynan ushbu usul orqali Muhammal al-Xorazmiy asarlarining bayoni keng ommaga tarqalgan. Yuqorida keltirilgan xizmatlari bilan bir qatorda, hozirgi kunda ma’lum bo‘lishicha, u qutb nuqtalaridan foydalangan.
+
+ 4. Muhammad al-Xorazmiyning (“Ziji”) Astronomik kitobida Quyosh, Oy, beshta sayyora, matematik jo‘g‘rofiya masalalari, trigonometriya, Quyosh va Oyning tutilishi kabilar ko‘rib chiqilgan. 1126 yil kitob lotin tiliga, 1914 yili nemis, 1962 yili ingliz tiliga tarjima qilingan.
+
+ 5. Muhammad al-Xorazmiyning jo‘g‘rofiya asarlarida yerning o‘sha vaqtlardagi ma’lum joylari bayon qilingan. Asarda joylar aniq xarita, u yerdagi daryo, dengiz va okeanlari, soni 2402 ga yetuvchi muhim aholi soni bilan keltirilgan. Bu - O‘rta asrlarda yozilgan arab tilidagi ilk jo‘g‘rofiy asar bo‘lgan. Mazkur iqlim nazariyasi aytarli darajada jo‘g‘rofiya rivojida muhim o‘rin tutgan.
+
+ Dunyo tan olishi
+
+ Muhammad al-Xorazmiyning matematika va umuman, sivilizatsiya rivojidagi hissasi e’tirofga olingan, “algoritm”ga muhrlangan uning ismi va asarlaridan biridagi “algoritm” atamasi Sharq olimlari orasida u yagonaligining isbotidir. Olimning daholigini e’tirof etarkanmiz, al-Xorazmiyga ilm tarixida berilgan eng to‘g‘ri baho amerikalik tarixchi Dj.Sarton tomonidan bo‘lgan: “…zamonasining eng buyuk matematigi, barcha sharoitlarni hisobga olgan holda, barcha zamonning eng buyuk olimlaridan biri!
+
+     "</string>
+
+
+    <string name="ahmad_fargoni">" O‘rta asrlarda yashagan Markaziy osiyolik olimlar orasida buyuk astronom, matematik va geograf al-Farg‘oniy salmoqli o‘rin egallaydi. Olimning to‘liq ismi Abul Abbos Ahmad ibn Muhammad ibn Kasir al-Farg‘oniydir. Manbalarda uning farg‘onalik ekanligidan tashqari deyarli boshqa ma'lumotlar saqlanmagan.
+
+ Tarjimai hol
+ Lekin shuni ham e'tiborga olish kerakki, O‘rta asrlarda musulmon o‘lkalarida bo‘lgan an'anaga binoan, mamlakat poytaxti yoki markazini ham mamlakat nomi bilan atashgan. Masalan, 995 yilgacha Xorazmning poytaxti bo‘lgan Kotni, keyingi poytaxti Gurganjni ham Xorazm deyishgan. Ba'zi arab mamlakatlarida bu odat hozir ham saqlanib qolgan.
+
+ Misrning poytaxti Qohirani - Misr, Shom (Suriya)ning poytaxti Damashqni - Shom deyilishi shundan. Ana shu odatga ko‘ra, O‘rta asrlardagi Farg‘ona vodiysining markaziy shahri Axsikatni ham Farg‘ona deyishgan. Al-Farg‘oniy Farg‘ona vodiysining Qubo (quva) qishlog‘ida tug‘ilgan. Shunisi ma'lumki, al-Farg‘oniy xalifa Xorun ar-Rashidning sharqiy yerlaridagi muovini, o‘g‘li Abdullohning (bo‘lajak xalifa al-Ma'munning) Marvdagi olimlari doirasiga kirgan.
+
+ Ehtimol, Abdulloh yoshligidan bilimga chanqoq bo‘lgani uchundir, 806 yili Marvga noib bo‘lib tayinlanganida, Movarounnahr, Xuroson, Xorazmdan olimlarni va iste'dodli yoshlarni to‘play boshlagan. Bu olimlarning asosiy qismi Abdulloh u yerga kelganidan avvalroq to‘plangan bo‘lishi ham ehtimoldan xoli emas, chunki Marv avvaldan, Sosoniylar davridanoq yirik ilmiy markaz hisoblangan.
+
+ 615 yili eng so‘nggi Sosoniy shahanshoh Yazdigard ibn Shahriyor arablar ta'qibidan qochib bu yerga kelganida poytaxtdagi kutubxona kitoblarini ham olib kelganligi ma'lum. Marv arablar qo‘l ostida ham o‘z mavqyeini yo‘qotmadi, aksincha, to mo‘g‘ul istilosigacha o‘sib bordi. Shunga ko‘ra, uning IX asr boshida xalifalikning yirik ilmiy va madaniy markazi bo‘lganligi tabiiydir.
+
+ Xalifa Xorun ar-Rashid 809 yili Tusda to‘satdan vafot etadi va uning vasiyatiga ko‘ra, Bag‘dodda taxtga katta o‘g‘li - Muhammad aya-Amin nomi bilan o‘tiradi. Saroydagi xurosonlik a'yonlar esa Abdullohni taxtni qo‘lga olishga da'vat etadilar. 811 yildan 813 yilgacha aka-uka Muhammad va Abdulloh o‘rtasida taxt uchun olib borilgan kurash Abdullohning g‘alabasi bilan tugaydi va Muhammad qatl qilinadi.
+
+ O‘sha yili Abdulloh taxtga al-Ma'mun nomi bilan o‘tiradi. Lekin u Bag‘dodga bormay 819 yilga qadar Marvda yashaydi. Natijada, Marv 813 yildan to 819 yilgacha xalifalikning vaqtincha poytaxti bo‘lib turadi. 819 yili al-Ma'mun butun saroy a'yonlari va ulamolari bilan birga Bag‘dodga ko‘chadi. Ular orasida al-Farg‘oniy ham bor edi. Shunday bo‘lsa ham al-Ma'mun qo‘l ostida u tuzgan ilmiy markaz «Bayt ul-hikmat»da ishlagan olimlar orasida al-Farg‘oniyning nomi eslatilmaydi.
+
+ Buning sababi bizningcha shunday bo‘lishi mumkin: u davrda xalifalikda ikkita rasadxona faoliyat olib borardi, biri Bag‘dodning ash-Shammosiya mahallasida va ikkinchisi Damashq yaqinidagi Kasiyun tepaligida edi. Bu rasadxonalarning har birida «Bayt ul-hikmat» olimlarining ikkita doimiy guruhlari ishlar edi. Ana shu olimlarning o‘zi rasadxonalari hojatidan kelib chiqib, ilmiy ekspeditsiyalar uyushtirardilar va umumiy rahbarlik Bag‘doddan turib boshqarilardi.
+
+ Balki al-Farg‘oniy Damashqdagi olimlar guruhida bo‘lishi, al-Ma'mun uni Bag‘dodga kelishi bilanoq u yerga yuborgan bo‘lishi mumkin. Abu Rayhon Beruniyning bir xabari shunday taxminga asos bo‘ladi. Uning aytishiga ko‘ra, Bag‘dod rasadxonasining ishida YAhyo ibn Abu Mansur, al-Xorazmiy va boshqa olimlar, Damashq rasadxonasida esa Xolid ibn Abdumalik va al-Farg‘oniy bilan birga ikkinchi guruh olimlar ishlaganlar. U shuningdek, al-Farg‘oniyning Suriya shimolida, Sinjor sahrosida 832-833 yillar Tadmur va ar-Raqqa oralig‘ida yer meridiani bir darajasining uzunligini o‘lchashda ishtirok etganini ham aytgan.
+
+ Nihoyat, al-Farg‘oniyning hayoti haqidagi eng so‘nggi va eng aniq xabar 861 bilan bog‘lanadi. Mavjud ma'lumotlarga ko‘ra, u shu yili Qohira yaqinidagi Ravzo orolida nilometrni, ya'ni Nil daryosi suvi sathini belgilovchi uskunani yasagan yoki ta'mirlagan. Biroq al-Farg‘oniy qanday qilib va qanday sharoitda Misrga borib qolgani haqida ham aniq ma'lumot yo‘q.
+
+ Ma'lumki, al-Ma'mun Marvdan Bag‘dodga nafaqat olimlarni, balki g‘ulomlari bo‘lmish turk askarlarini ham olib kelgan edi. Bag‘dodga kelishi bilan u ma'lum ma'noda lashkarni turklashtirdi: ana shu turk askarlaridan lashkarboshilar tayinladi. Turk g‘ulomlaridan biri buxorolik To‘lunni xalifa Suriya, Falastin va Misrdagi lashkarlarning amiri etib tayinladi.
+
+ Uning o‘g‘li Ahmad esa Suriya va Misrni mustaqil deb e'lon qilib, To‘luniylar sulolasiga asos soldi. Al-Xorazmiy xalifa al-Ma'munning yaqin odami va maslahatchisi bo‘lgani kabi al-Farg‘oniyning Misrda paydo bo‘lganidan ajablanmasa ham bo‘ladi.
+
+ Al-Farg‘oniy hayotining muddati haqida ham qiyoslar qilish mumkin. Agar uning hayotini al-Xorazmiyning hayoti bilan qiyos qilsak, quyidagi xulosaga kelamiz. Ma'lumki, al-Xorazmiyning nomi yozma manbalarda oxirgi marta 847 yili xalifa al-Vosiqning o‘limi munosabati bilan eslatiladi va shundan so‘ng uchramaydi. Shunga ko‘ra, uning o‘lgan yili deb 850 yil qabul qilingan. Al-Farg‘oniyning nomi oxirgi marta 861 yili Nilning sathini o‘lchagich uskunasini ta'mirlash munosabati bilan eslatiladi.
+
+ Agar u al-Ma'mun bilan 819 yili Marvdan Bag‘dodga ketayotganda 20-25 yoshlar chamasida bo‘lgan desak, u holda uning tug‘ilgan yili deb 797 yoki 798 yilni qabul qilish mumkin. U holda uning hayot muddati 67-68 yoshni tashkil qiladi. Demak, 1998 yili uning tug‘ilaniga 1200 yil to‘ldi.
+
+ Al-Farg‘oniyning hayoti haqidagi ma'lumotlar juda kam bo‘lganligiga qaramay, o‘rta asrlarda Sharqda uning nomi mashhur bo‘lgan. Ibn an-Nadim (X asr), Ibn al-Qiftiy (XII-XIII asrlar), Abul Faraj Bar Ebrey (XIII asr), Xoji Xalifa (XVII asr) kabi Sharq fihristchilari uni o‘z asarlarida eslatadilar.
+
+ Al-Farg‘oniyning asosiy astronomik asari «Samoviy harakatlar va umumiy ilmi nujum kitobi» («Kitob al-harakat as-samoviya va javomi' ilm an-nujum») XII asrda Ovro‘poda lotin tiliga ikki marta va XIII asrda boshqa Ovro‘po tillariga ham tarjima qilinganidan so‘ng, uning lotinlashtirilgan nomi «Alfraganus» shaklida G‘arbda bir necha asr davomida keng tarqaladi.
+
+ Uning bu kitobi shu asrlar davomida Ovro‘po universitetlarida astronomiyadan asosiy darslik vazifasini o‘tadi. Al-Farg‘oniy asarining lotincha tarjimasi birinchi marta 1493 yilda nashr etilgan bo‘lib, u eng qadimgi nashr qilingan kitoblardan hisoblanadi. 1669 yili mashhur Golland matematigi va arabshunosi Yakob Golius al-Farg‘oniy asarining arabcha matnini yangi lotincha tarjimasi bilan nashr etganidan so‘ng, al-Farg‘oniy va uning asarining Ovro‘podagi shuhrati yanada ortdi.
+
+ Ovro‘po Uyg‘onish davrining buyuk namoyandalaridan biri bo‘lgan mashhur olim Regiomontan XV asrda Avstriya va Italiya universitetlarida astronomiyadan ma]ruzalarni al-Farg‘oniy kitoblaridan o‘qigan. Al-Farg‘oniy nomini Dante (XV asr) va Shiller (XVIII asr) ham eslagan.
+
+ Ovro‘po olimlaridan Dalambr, Brokelman, X.Zuter, I.Yu.Krachkovskiy, A.P.Yushkevich va B.A.Rozenfeldlar al-Farg‘oniyning ijodini yuqori baholaganlar.
+
+ Hozirgi kunda al-Farg‘oniyning sakkiz asari ma'lum bo‘lib, ularning hammasi astronomiyaga aloqador va birortasi hozirgi zamon tillariga tarjima qilinmagan. Ular quyidagilardir: yuqorida tilga olingan asar, odatda uni «Astronomiya asoslari haqida kitob» nomi bilan ham atashadi - qo‘lyozmalari dunyo kutubxonalarining deyarli barchasida bor.
+
+ «Asturlob yasash haqida kitob» — qo‘lyozmalari Berlin, London, Mashhad, Parij va Tehron kutubxonalarida, «Asturlob bilan amal qilish haqida kitob» — birgana qo‘lyozmasi Rampurda (Hindiston), «Al-Farg‘oniy jadvallari» — qo‘lyozmasi Patnada (Hindiston), «Oyning Yer ostida va ustida bo‘lish vaqtlarini aniqlash haqida risola» — qo‘lyozmalari Gota va Qohirada, «Quyosh soatini yasash haqida kitob» — qo‘lyozmalari Halab va Qohirada saqlanadi. «Al-Xorazmiy «Zij»ining nazariy qarashlarini asoslash» asari Beruniy tomonidan eslatiladi, lekin qo‘lyozmasi topilmagan.
+
+ Al-Farg‘oniyning bu ro‘yxat boshidagi ikki asaridan boshqalari hali hech kim tomonidan o‘rganilmagan. Shubhasiz, ular o‘rganilib tahlil qilinishi bilan al-Farg‘oniy ijodining yangi qirralari ochiladi va olimning o‘rta asrlarda, undan keyin Sharq va G‘arbda bu qadar mashhur bo‘lishi sabablari ham ayon bo‘ladi.
+
+ Aytganimizdek, mazkur asarlarning birinchisi 1145 yildan boshlab lotin tiliga bir necha marta tarjima qilingan. Bu tarjimalarning barchasida al-Farg‘oniy ismi lotinchada «Alfraganus» shaklida yozilib, shu shaklda fanga abadiy kirib qoldi.
+
+ Al-Farg‘oniyning bu asari astronomiyadan eng sodda darslik bo‘lib, unda murakkab geometrik shakllar va matematik formulalar, hisoblashlar keltirilmagan. Bu esa astronomiyadan boshlang‘ich ma'lumotlarni o‘zlashtirishni ancha osonlashtirgan. Balki buyuk Regiomontan asarning shu xususiyatini anglab, o‘zining universitetlardagi ma'ruzalari uchun qo‘llanma sifatida al-Farg‘oniyning ana shu asarini tanlagandir.
+
+ Shunday qilib, buyuk ajdodimizning bu asari Ovro‘po Uyg‘onish davridagi va undan ancha keyingi davrdagi madaniyat rivojida sezilarli rol o‘ynadi. Asarning iqlimlar nazariyasiga ko‘ra bayon qilingan geografik bo‘limi diqqatga sazovordir. Mamlakat va shaharlarning nomlariga qaraganda, al-Fargoniy al-Xorazmiyning geografik asari bilan tanish bo‘lgan yoki u ham al-Xorazmiy foydalangan manbadan foydalangan, chunki ikkala muallifda ham bu nomlar bir xil.
+
+ Geografik bo‘lim (9- bob) bunday atalgan: «Yerdagi ma'lum mamlakatlar va shaharlarning nomlari va har bir iqlimdagi narsalar haqida». Bundan so‘ng, yetti iqlimning hammasi ulardagi mamlakatlar viloyatlari va shaharlari bilan birga tavsiflanadi. Shuni ham aytish kerakki, o‘rta asrlarda arab tilida yozilgan geografik asarlarning eng birinchisi al-Xorazmiyning «Kitob surat-ul-arz» asari edi.
+
+ Unda al-Xorazmiy yetti iqlimdagi dengizlar, mamlakatlar, tog‘lar, daryolar, ko‘llar va shaharlarning tavsifini keltirgan edi. Bunda u tavsifni rub'i ma'murning eng g‘arbiy chekkasidan, ya'ni Afrikaning Atlantika okeani qirg‘og‘igacha, ya'ni Tinch okeanidagi Yaponiya orollarigacha davom ettiradi. Tavsif kenglama yo‘nalishida ekvatorial yerlardan to shimoliy qutbiy yerlargacha davom etadi.
+
+ Iqlimlarning al-Farg‘oniy keltirgan tavsiflash usuli al-Xorazmiynikidan farq qiladi. Al-Xorazmiy o‘zining tavsiflash usulida Ptolemey an'anasiga asoslangan bo‘lsa, al-Farg‘oniy hindlarning an'anasiga asoslanib, rub'i ma'murning tavsifini eng sharqiy chekkasidan boshlaydi. Uning iqlimlar tavsifida 3, 4, 5, 6 va 7-iqlimlarning tavsifi diqqatga sazovordir. Chunki bularda Markaziy Osiyoning va unga tutash yerlarning shahar va viloyatlari tavsiflanadi. Shuning uchun quyida o‘sha tavsiflarni o‘z ichiga olgan parchani keltiramiz.
+
+ «Uchinchi iqlim Sharqdan boshlanib, Xitoy mamlakatining shimolidan, so‘ng Hind mamlakatidan va so‘ngra Qobul va Kermon viloyatlaridan o‘tadi.
+
+ To‘rtinchi iqlim Sharqdan boshlanadi va Tibetdan, so‘ngra Xurosondan o‘tadiki, bunda Xo‘jand, Usrushona, Farg‘ona, Samarqand, Balx, Buxoro, Hirot, Amuya, Marvarrud, Marv, Saraxs, Tuye, Nishopur shaharlari bor. Undan so‘ng Jurjon, qumis, Tabariston, Demovand, Qazvin, Dailam, Ray, Isfahondan o‘tadi.
+
+ Beshinchi iqlim Sharqda Yajuj mamlakatidan boshlanadi, so‘ng Xurosonning shimolidan o‘tadi, unda Toroz shahri - savdogarlar shahri bor, Navokat (Navkat), Xorazm, Isfijob (Sayram), Turar-band (O‘tror-hozirgi Aris) va Ozarbayjon, Arminiya (Armaniston) viloyati, Barda'a (Barda), Nashava (Naxchivon) shaharlari bor.
+
+ Oltinchi iqlim Sharqdan boshlanadi va Yajuj mamlakatidan o‘tadi, so‘ng Hazar mamlakatidan (Shimoliy Kavkaz va quyi Volga bo‘yi), Jurjon (Kaspiy) dengizining o‘rtasidan kesib o‘tadi va Rum (Vizantiya) mamlakatigacha boradi.
+
+ Yettinchi iqlim Sharqda Yajuj mamlakatining shimolidan boshlanadi, so‘ng turkiy mamlakatlardan (Markaziy Osiyo), so‘ng Jurjon dengizining shimolidan, so‘ng Rum dengizini (qora dengiz) kesib, saqlablar (slavyanlar) mamlakatidan o‘tadi va G‘arb dengizida (Atlantika) tugaydi».
+
+ Keltirilgan parchadan ko‘rinadiki, al-Farg‘oniy katta kenglikdagi o‘lkalarni tavsiflagan bo‘lsa ham, o‘zining asl vatani Movarounnahrni mufassalroq tavsiflagan. Undan tashqari shuni ham ta'kidlash kerakki, al-Farg‘oniyning rub'i ma'mur haqidagi tasavvuri ancha aniq bo‘lib, har xil afsonaviylikdan xolidir. Chunonchi, u Yajuj mamlakati deb Sharqdagi afsonaviy yerni emas, balki hozirgi Mo‘g‘ulistonning sharqi va Xitoyning shimoli-sharqiga mos keladigan aniq geografik hududni aytgan.
+
+ Daryolar, ko‘llar, suv omborlari va kanallarda suv sathini o‘lchab, yozib boradigan eng zamonaviy "Valdey" yoki okean va dengizlar suv sathini o‘lchaydigan "Rordansa" tipidagi qurilmalar al-Farg‘oniy kashf etgan "Miqyos an-Nil" qurilmasidan andoza olib tayyorlangan.
+
+ Farg‘oniyning nomi Xorazmiy kabi butun Sharq va G‘arbda mashhurdir. O‘rta asrda tabiiy-ilmiy bilimlarning rivojiga ulkan hissa qo‘shgan olim sifatida manbalarda, so‘nggi g‘arb va Sharq mualliflari asarlarida, o‘z yurti O‘zbekistonda, ayniqsa, zo‘r g‘urur va iftixor bilan tilga olinadi, o‘rganiladi, hozirgi kunda ko‘chalar, o‘quv yurtlariga uning nomi berilgan.
+
+ Bulardan tashqari buyuk vatandoshimiz Ahmad al Farg‘oniy taklif etgan suv sathini santimetr aniqlikda o‘lchash usuli hozirgi kunda ham dunyo gidrologiyasida qo‘llaniladi."</string>
+
+
+    <string name="buxoriy">" Imom Ismoil al-Buxoriy - taniqli muhaddis olim (muhaddislik — hadislar haqidagi fan, payg‘ambarimiz Muhammad s.a.v.ning islom dini uchun xos so‘zlari va ishlari haqidagi xabarlar) va ahamiyatiga ko‘ra Qur’ondan keyingi o‘rinda turuvchi “Al Jomiy as Sahih” kitobining muallifi.
+
+ Abu Abdulloh Muhammad ibn Ismoil al-Buxoriy 810 yil Buxoroda tavallud topgan. Ma’lum bo‘lishicha, uning otasining bobosi birinchi islom qabul qilganlardan bo‘lgan.
+
+ Uning otasi muqaddas rivoyatlar baxshilaridan bo‘lgan. 5-6 yoshlaridan Ismoil Qur’on va diniy ilmlarni, xususan, hadislar o‘rganishni boshlagan. Mukammal xotira egasi bo‘lib, u o‘qiganlirini tez o‘rganib olar, so‘ngra ularni har tomonlama tahlil qilardi.16 yoshiga kelib, u o‘sha zamonlarning barcha hadis to‘plamini yoddan bilgan.
+
+ 825 yil Al Buxoriy o‘z onasi va akasi Ahmad bilan birga haj safarini amalga oshirish uchun Makka va Madinaga yo‘l olishadi. Ziyoratni amalga oshirgach, onasi va akasi Buxoroga qaytib kelishadi, u esa turli musulmon davlatlari bo‘ylab sayohat qilib, o‘z davrining taniqli ustozlaridan ta’lim olgan.
+
+ Rivoyatlarga ko‘ra, u yuz minglab hadislarni to‘plab, ulardan 300 mingtasini yoddan bilgan. U hayotining 42 yilini izlarishlar bilan o‘tkazadi. Kitobi ustida ishlashni u Basrada boshlaydi va uni ko‘p yillar davomida yozadi. Uning so‘zlariga ko‘ra, kitobga 1080 ta muhaddisning hadislari kiritilgan. Hadislarning ishonchliligiga ularning kelib chiqish manbasi va har bir zanjir aniq ko‘rsatgich bo‘la oladi, zero, yetkazib beruvchining axloqiy timsoli nazarda tutilganligi, unga ishonish imkonini beradi.
+
+ Manbalardan ma’lumki, u ko‘plab kitoblar yozgan bo‘lib, ular orasida “Ta’rixi Kabir” - “Buyuk Tarix” kitobi ham bor.
+
+ “As-Sahih”ni yozgach, u Buxoroga qaytadi va barcha ilm istaganlarga ta’lim beradi, bu orqali u odamlarni savodga o‘rgatib, jamiyatga katta foyda olib keladi. Uning obro‘si shu qadar baland bo‘lganki, unga noma’lum hadis xalqda ishonchsiz hisoblangan.
+
+ O‘z irodasiga qarshi ravishda u Buxoro hukmdori Tohirid Xolid ibn Ahmad bilan nizolashib qoladi va Samarqand yoqasidagi Xartang qishlog‘iga ko‘chib o‘tishga majbur bo‘ladi, shu yerda u 870 yil vafot etgan.
+
+ Samarqand viloyatining Chelak tumani Xartang qishlog‘ida joylashgan qabri ziyoratchilarning eng hurmatga sazovor va muqaddas qadamjosiga aylangan.
+
+ XVI asrda Imom al Buxoriyning maqbarasi oldiga masjid qurilgan va chinorlar ekilgan.
+
+ 1998 yilning 23 oktabr kuni Samarqandda taniqli olim tavalludining 1225-yilligi munosabati bilan tanatanalar bo‘lib o‘tdi. Mazkur hodisa munosabati bilan O‘zbekiston Respublikaning Prezidenti I.A.Karimov rahbarligidagi loyiha - ulkan nodir-me’moriy majmua qad rostlagan. Loyiha amalga oshirilishida Samarqand, Toshkent, Buxoro, Xiva, Shahrisabz, Andijon, Qo‘qon va Namanganning eng yaxshi quruvchilari va xalq ustalari ishtirok etishgan.
+
+ Majmuaga naqshlar bilan bezatilgan darvoza o‘rnatilgan peshtoq orqali kiriladi. Kirish qismining ikki tomoniga majmua qurilishi haqida arab va lotin grafikasida yozilgan yodgorlik toshtaxtalari o‘rnatilgan.
+
+ Majmuaning markaziy o‘qida maydoni 9x9 metr, balandligi 17.0 metrni tashkil qiluvchi to‘rtburchak asosli to‘g‘ri burchak shakldagi Ismoil al Buxoriy maqbarasi qad rostlagan. Maqbara gumbazi ikki yoqlama, qovurg‘asimon, moviy rang tasvirlar bilan bezalgan. Devorlari koshinlar, ganch, oniks va granitlarga o‘simlik va geometrik naqshlar solib ishlangan. Dahma tarkazi och yashil rangli oniksdan.
+
+ Hovlining chap tarafida xonaqoh va maydoni 786 kv.metrni tashkil qiluvchi galereya o‘rin olgan bo‘lib, bir vaqtning o‘zida 1500 kishi namoz o‘qiy oladi. O‘ng tarafida kutubxona hamda islomshunoslikka oil nodir nusxadagi qo‘lyozmalar va litografik kitoblar, turli mamlakatlar davlat arboblarining sovg‘alari, xususan, Kaabning Makkasidan taqdim etilgan kasvalar-choyshablar saqlanuvchi muzey joylashgan.
+
+ Hovlining ichidan muhaddislikni o‘rgatuvchi o‘quv markaz joy olgan.
+
+ Hovlining markazidan qadimiy chinorlar va hovuz o‘rin olgan bo‘lib, uning oldida shifobaxsh suv otilib turadi.
+
+ Imom al Buxoriyning ma’naviy merosini chuqur o‘rganish va keng tarqatish maqsadida, xalqaro fond tashkil etilib, 2000 yildan buyon o‘zining o‘zbek tilidagi ma’naviy-ma’rifiy ilmiy-adabiy “Imom al Buxoriy saboqlari” jurnalini chop etib kelmoqda.
+
+ Al Buxoriy kitoblaridan madrasalarda, payg‘ambarimiz Muhammad s.a.v. sunnatlarini (muqaddas naqllar) o‘rganishda universitetning asosiy darsligi o‘rnida foydalaniladi.
+
+     "</string>
+    <string name="ali_qushchi">" Ali Qushchi (taxallusi; asl ismi-sharifi Mavlono Alouddin Ali ibn Muhammad Qushchi Samarqandiy) (1403, Samarqand — 1474, Istanbul) — falakiyotshunos va riyoziyotchi olim, Ulugʻbek ilmiy maktabining atoqli namoyandalaridan biri, uning yaqin shogirdi. Amir Temur qarorgohi boshligʻining oʻgʻli. Ulugʻbek saroyida qarchigʻaylar boqqani uchun uni "Qushchi" deyishgan. Ali Qushchi boshlangʻich ma’lumotni Samarqandda oladi (Qozizoda Rumiyda tahsil koʻradi), oʻz ma’lumotini oshirish uchun 1414-yilda Eronning Kirmon shahriga boradi va u yerdagi madrasada 3 yil ta’lim oladi, ayniqsa tabiiy fanlarni, xususan falakiyot, riyoziyotni puxta oʻrganadi, 1417-yili Samarqandga qaytadi. Bu vaqtda Samarqandda Ulugʻbek madrasasi qurilayotgan edi. Ali Qushchi shu madrassada ham ta’lim olishni davom ettiradi, Qozizoda Rumiy va Gʻiyosiddin Koshiylardan ilm sirlarini oʻrganadi. Madrassani bitirgach, shu yerda falakiyot va riyoziyotdan mashgʻulotlar olib boradi, ilmiy ishlar bilan mashgʻul boʻladi. Ulugʻbek rasadxonasini qurish ishlarida ham faol qatnashadi. Shu davrda "Hisob risolasi" va "Astronomiya risolasi" asarlarini yozadi va ilm ahli orasida katta obroʻ qozonadi. 1428-yilda Ulugʻbek rasadxonasi ishga tushirilgach, bu yerda Ulugʻbek rahbarligida kuzatuvlar olib boradi, risolalar yozishda davom etadi. Ulugʻbekning "Ziji jadidi Koʻragoniy" asari yozilishida Ali Qushchining ham hissasi katta. 1438-yilda Ulugʻbek Ali Qushchini Xitoy saltanatiga elchi qilib yuboradi, u Xitoydan qaytib kelgach, "Matematika va astronomik jugʻrofiya" asarini yozadi.
+
+ Ulugʻbek vafotidan (1449) soʻng uning Samarqanddagi mashhur kutubxonasi xavf ostida qoladi. Kutubxonani A. Q. saqlab qolgan degan taxminlar bor; rivoyatlarga qaraganda kutubxonadagi kitoblarning koʻp qismini A. Q. Samarqand yaqinidagi Xazrat Bashir qishlogʻiga koʻchirgan. Koʻp oʻtmay, ta’qiblardan qochib, A. Q. Samarqanddan chiqib ketishga majbur boʻladi. U avval Karmana va boshqa shaharlarda yashab, 1465-yil Turkiyaning Istanbul shahriga boradi. Turk sultoni Muhammad II (1451—81) taraqqiyparvar shaxs boʻlib, oʻz atrofiga olim va shoirlarni toʻplar edi. A. Q.ning dongʻini eshitgan sulton uni saroyga xizmatga taklif kiladi va olimlarga rahbar qilib tayinlaydi. A. Q. Turkiyada olimlar, faylasuflar, shoirlarni oʻz atrofiga toʻplab, ilmiy ishlarni taraqqiy ettirishga intiladi, oʻzi esa riyoziyot, falakiyot, falsafa, mantiq, adabiyot, musiqa va boshqa fan sohalaridan risolalar yozadi. A. Q.dan 20 dan ortiq ilmiy asar meros boʻlib qolgan. U koʻp olimlarning asarlariga sharhlar yozgan. Ayniqsa A. Q.ning "Ulugʻbek zijiga sharh" asari astronomiya tarixida katta ahamiyatga ega. U "Zij"ni geometrik teoremalar yordamida sharhlaydi. A. Q. asarlarining koʻpchiligi Turkiyadagi Aya Sofiya madrasasi kutubxonasida saqlanib qolgan.
+
+ Ulugʻbek maktabi namoyandalari va xususan A. Q.ning asarlari va dunyoqarashlari ilm-fan tarixida oʻziga xos oʻrin tutadi. A. Q. dunyo moddiy narsalardan iborat, moddiy narsalar esa oddiy va murakkab holda boʻlib, ularda ichki ziddiyatlar mavjud, deb hisoblagan. U fasllar almashinuviga Yerning Quyoshga yaqinlashuvi sababligini aytgan.
+
+ A. Q. 16-17-asrlarda Oʻrta va Yaqin Sharq mamlakatlarida riyoziyot fani rivojiga sezilarli ta’sir koʻrsatgan. "Hisob risolasi" asaridan Oʻrta Osiyo madrasalarida oʻquv qoʻllanmasi sifatida foydalanilgan. Bu asarda hindlar arifmetikasi (oʻnlik sanoq tizimi), falakiyotshunoslar arifmetikasi (oltmishlik sanoqtizimi) va geom. (handasa) haqida yangi fikrlar aytilgan. "Kitob ul-Muhamadiya" asarida A. Q. sonlardan ixtiyoriy natural darajali ildiz chiqarish usullarini va Nyuton binomi formulasini koʻrsatadi, uning bu usullari hozirgi vaqtda Ruffini — Gorner sxemasi deb nom olgan usulga oʻxshashdir. Bu asarida A. K,, kvadrat ildizini, umuman I darajali iddizni taqribiy hisoblash formulalarini beradi. Shuni ta’kidlash lozimki, hozirgi ildiz ishorasi Turkiston olimlari asarlarida qoʻllanilmagan: ildiz soʻzlar bilan yozilgan. A. Q. bu asarida birinchi boʻlib asoslagan "musbat" va "manfiy" atamalari, ularning tatbiqi mat. tarixida katta ahamiyatga ega. Gʻarbiy Yevropaga "musbat" va "manfiy" sonlar 15-asr oxirlarida pizalik Leonardo asarlari orqali tarqalgan. Kitobda uzunlik (masofa), kesmalar va yuzlarni oʻlchash va jismlarning hajmlarini hisoblash qoidalari bayon qilingan. Bu asarda trigonometriyadagi tekis uchburchaklar trigonometriyasi, sinus va kosinus teoremalari bayon etiladi, ba’zi shakllarning sirtlarini hisoblash uchun taqribiy formulalar beriladi, bu formulalar A. Q. dan oldin oʻtgan olimlar asarlarida uchramaydi. Kitobda keltirilgan sinuslar jadvalidagi sinus funksiyasining qiymatlari hozirgi zamon qiymatlaridan deyarli farq qilmaydi.
+
+     "</string>
+
+
+    <string name="naqish_bandi">" Markaziy Osiyoda XIV asrda paydo bo‘lgan yana bir yirik tasavvufiy tariqat - «Naqshbandiya» tariqatidir. Bu tariqat Xoja Muhammad Bahouddin Naqshband nomi bilan bog‘liqdir. Naqshband 1318 yilda Buxoro yonidagi qasri Hinduyon qishlog‘ida tavallud topgan (so‘ngra Hazrati Naqshband sharofati bilan bu qishloq «qasri Orifon» deb atala boshlangan).
+
+ 1354 yilda vafot etgan mutasavvuf olim Xoja Muhammad Boboi Samosi Bahouddin Naqshbandning Buxoro yonidagi qasri Hinduyon qishlog‘ida paydo bo‘lishini oldindan bashorat qilgan ekan.
+
+ Mazkur mutasavvuf donishmand yosh Bahouddinni o‘ziga o‘g‘il qilib oladi va har tomonlama uni tarbiya qiladi. Vafotidan oldin uni o‘z shogirdi Sayyid Mir Kulolga topshiradi. Shu zaylda yosh Bahouddin o‘sha davrdagi atoqli mutasavvuf Sayyid Mir Kulol qaramog‘ida ta\'lim olgan.
+
+ Tasavvufning mashhur bilimdoni, atoqli sharqshunos Ye.E.Bertelsning yozishicha, Naqshband ta\'limotining asosida ixtiyoriy ravishdagi faqirlik yotadi… Shunga binoan, Bahouddin Naqshband umri bo‘yi dehqonchilik bilan kun kechirgan, o‘z qishlog‘ida unchalik katta bo‘lmagan yeriga bug‘doy va mosh ekar ekan.
+
+ U uyida hech qanday mol-dunyo va boylik saqlamagan. qishda qamishlar ustida, yozda esa bo‘yra ustida yotib kun kechirgan. Uning uyida hech qachon xizmatkor ham bo‘lmagan. Hazrati Naqshband butun umrini o‘z xohishi bilan faqirlik va yo‘qsilliqda o‘tkazgan. Zero, bu tariqatning asl aqidasi - Dil ba yor-u, dast-ba kor - ya'ni doimo ko‘ngling Allohda bo‘lsin, qo‘ling esa ishda», degan g‘oyani ilgari suradi. U o‘z qo‘l kuchi bilan kun ko‘rishni yoqtirgan, topgan-tutganlarini - yetim-yesirlarga, beva-bechoralarga in'om etgan, hukmdorlardan doimo o‘zini yiroq tutgan, ular oldida hech qachon ta'magirlik qilib yashamagan.
+
+ XIV asrda Markaziy Osiyoda paydo bo‘lgan «Naqshbandiya» ta'limoti Afg‘oniston orqali Hindistonga va boshqa islom yurtlariga shiddat bilan tarqala boshlaydi. Naqshbandiya ta'limoti Temurning mo‘g‘ullar istilosiga qarshi kurash, mustaqil davlat barpo etib, unda madaniy-ma'naviy rivojlanishni ta'minlashga intilishida, temuriy davri madaniy yuksalishida katta ijobiy ahamiyat kasb etadi.
+
+ XV asrning ko‘p olim-fozillari, davlat arboblari, san'atkorlari Naqshbandiya ta]limotidan keng foydalandilar, unga o‘ta ijobiy munosabatda bo‘ldilar. Zahiriddin Muhammad Bobur (1483-1530) davrida, undan keyingi XVI-XVII asrlarda bu jarayon ancha tezlashadi.
+
+ Naqshbandiya tariqati XVI asrda Xoja Muhammad al-Boqiy Kobuliy (vafoti 1605) Hindistonga borgandan so‘ng Hind tuprog‘ida ham avj oladi. Bu mashhur mutasavvuf olim Afg‘on va Hind yurtlarida Xoja Boqibillo nomi bilan mashxurdir. Uning shogirdi Xoja Ahmad Foruq Sirhindiy (1563-1624) esa Naqshbandiya ta'limotining XVII asrda Hindistonda yoyilishida katta rol o‘ynagan.
+
+ Shunday qilib, bizning tabarruk yurtdoshimiz Hazrati Bahouddin Naqshband tomonidan asoslangan Naqshbandiya ta'limoti Markaziy Osiyo, O‘rta va YAqin Sharq xalqlarining ijtimoiy-siyosiy, ma'naviy-madaniy hayotida juda katta o‘rin egalladi. Bu ta'limot boshqalar mehnati bilan kun kechirishni, tekinxo‘rlikni, ijtimoiy zulm-istibdodni qat'iyan qoralaydi. Bu ta'limot tarafdorlari asketizmga (tarkidunyochilikka) qarshi, boy-zodagonlarning zulm va istibdodiga qarshi bo‘lganlar, faqat o‘z qo‘l kuchi, peshona teri bilan halol mehnat qilib kun kechirishga chaqirganlar. Naqshbandiylar savdo-sotiq, dehqonchilik, hunarmandchilik, badiiy adabiyot, musiqa, ilm-ma'rifat, hattotlik, naqqoshlik, miniatyurasozlik, quruvchilik kabi barcha foydali va xayrli yumushlar bilan shug‘ullanishga da'vat etganlar. Shuning uchun ham o‘z davridagi ilm-ma'rifatning, adabiyotning yirik namoyandalari bo‘lmish Abdurahmon Jomiy, Alisher Navoiy, Xushholxon Xatak, Ahmad Shoh Durroniy, Mahdumquli Firog‘iy singari yuzlab ulkan taraqqiyparvar, insonparvar shoirlar va mutafakkirlar Naqshbandiya yo‘lini tanlaganlar, hayotni va insonni avji baland pardalarda kuylab, tinmay barakali ijod qilganlar.
+
+ Xoja Bahouddin Naqshbandni Markaziy Osiyo xalqlari juda yuksak qadrlaydilar. Xalqimiz ul Hazratga baland e'tiqod qo‘yib, «Bahouddin-balogardon!» deya behad e'zozlaydi. Hozirgi mustaqillik zamonida «Yassaviya», «Kubraviya», «Naqshbandiya» kabi o‘lkamizda (Turkistonda) vujudga kelgan tariqatlar endi bizda ham har tomonlama chuqur o‘rganila boshlandi.
+
+ Xoja Ahmad Yassaviy, Shayx Najmiddin Kubro va Xoja Bahouddin Naqshband singari mutasavvuf donishmandlarning poklik, to‘g‘rilik, mehr-shafqat, adlu insof, imondorlik, mehnatsevarlik, vatanparvarlik kabi ilg‘or umumbashariy fikrlari davrimizga hamohang bo‘lib, kelajak uchun xizmat qiladi. 1993 yilda O‘zbekistonda Bahouddin Naqshbandning 675 yilligi zo‘r tantanalar bilan o‘tkazildi, unga bag‘ishlab qator asarlar nashr etildi, Xalqaro ilmiy konferensiyalar bo‘lib o‘tdi. Buxorodagi Naqshband nomi bilan bog‘liq bo‘lgan yodgorliklar qaytadan tiklandi.
+
+     "</string>
+
+
+    <string name="farobiy">" Al Farobiy Abu Nasr ibn Muhammad — faylasuf, entsiklopediyachi-olim, astronom, matematik, o‘rta asrlar Sharq mediki, sharq arastuchilarining asosiy vakillaridan biri bo‘lgan. Ikkinchi ustoz (Arastudan keyin) nomiga ega bo‘lgan. Asosiy asarlari: “Donishmandlik gemmalari”, “Himmatli shahar aholisining nuqtai nazari haqida risola”, Ilmlar tasnifi risolasi, “Katta musiqa kitobi”.
+
+ Al Farobiy 870 yil (boshqa ma’lumotlarga ko‘ra 872 yil) Sirdaryodagi Aris daryosi chuqurligida joylashgan (zamonaviy Qozog‘iston chegarasi) Vosij shahrining Faroba tumani atrofida dunyoga kelgan. U imtiyozli tabaqaga tegishli turkiylar oilasidan. To‘liq ismi Abu-Nasr Muhammad Ibn Muhammad Ibn Tarxon Ibn Uzlag‘ al-Farobiy at-Turkiy.
+
+ Dunyoni bilishga intilib, al Farobiy ona yerini tark etadi. Bir ma’lumotga ko‘ra, u o‘spirinlik davrida, boshqa ma’lumotlarga ko‘ra qirq yoshlarida ketgan. Al Farobiy Bog‘dod, Xorrun, Qoxira, Damashq, Aleppo va Arab xalifatining boshqa shaharlarida bo‘lgan.
+
+ Hayоtining ko‘p yillarini u arab xalifatining siyosat va madaniyat markazi hisoblanmish Bog‘dodda o‘tkazgan. Bu yerda u “Bayt ul hikmat” arboblari ishlarini, yunon mualliflarining tarjimalarini o‘rganib, o‘z bilimlarini puxta boyitadi, taniqli olimlar bilan tanishib, vaqti kelganda, o‘zining yuqori axloqi va tafakkuri bilan ular orasida yetakchi o‘rinni egallaydi. Aynan shu yerda unga “Muallim Assana”, ya’ni Ikkinchi ustoz (Arastudan keyin ikkinchi, deya nazarda tutilgan) maqomi berilgan.
+
+ Haqiqatdan ham, ularni ko‘p narsa birlashtiradi: ilmiy qiziqishlari kengligi va ko‘p qirraligi, borliq va unda insonning o‘rnini falsafiy tushunishga intilish, “barcha ma’qullagan fikr”ga, xalqning kundalik donoligiga yaqinlashish kabilar. Farobiy avvalroq yunon o‘tmishdoshi ishlab chiqqan mantiq faniga mustaqil ravishda hissa qo‘shgan. O‘ziga xos va dadil falsafiy dunyoqarashlari jamiyat fikriga qat’iyan qarshi, yunon falsafasi va ilmini butunlay qabul qilishga noqobil bo‘lgan. Davrning ba’zi xurofotlariga to‘g‘ridan-to‘g‘ri ta’nalari esa ko‘p odamlarning unga nisbatan bid’atlikda va dindan chetlashganlikda ayblashlariga sabab bo‘lgan. Aslida, uning fikrlashida butunlay mustaqillik namoyon etilgan bo‘lib, keyin ham o‘z e’tiqodida qat’iy turgan.
+
+ Al Farobiy Bog‘dodga kelishidan avval turk va boshqa tillarda so‘zlashgan, lekin arab tilida emas, biroq, umrining oxiriga kelib yetmushga yaqin tilni bilgan. Bog‘dodda yashab, al Farobiy turli ilmlar, eng avvalo mantiq bilan shug‘ullana boshlagan. Bu vaqtda Bog‘doddagi eng taniqli mutafakkir Abu Bishr Matt ben Yunis bo‘lgan. O‘quvchilari safidan al Farobiy ham o‘rin egallab, Abu Bishr Mattning so‘zlariga ko‘ra, u Arastuning mantiqqa doir asarlariga izohlar yozgan. Al Farobiy Arastu merosini o‘rganishga chuqurlashib ketdi va g‘oyalarni qabul qilish, buyuk yunon olimi qoldirgan masala va muammolar yechimida yengillikka erishdi.
+
+ Al Farobiyning ko‘p qirrali ilmiy tadqiqotlar natijasi o‘rnida “Fanlar tasnifi haqida” risolasini aytish mumkin. Unda o‘z davrining barcha ilmlari qat’iy tartibda sanalib, har bir fan ta’rifi o‘rganib chiqilgan.
+
+ Bog‘dodda al Farobiy o‘z bilimlarini chuqur boyitadi, taniqli olimlar bilan munosabat o‘rnatib, tez orada ular orasida nufuzga ega bo‘ladi. Lekin aqidaparast yo‘nalishdagi ulamolar orasida al Farobiyda safdoshlarining fikrlariga nisbatan ziddiyat uyg‘onib, bilimga ega bo‘lishda aql-idrokka asoslangan va insonlarni dunyoviy hayotida baxtga erishish yo‘liga qaratilgan fikri olg‘a turadi. Natijada, al Farobiy Bog‘doddan ketishga majbur bo‘ladi.
+
+ U Damashq orqali Misrga yo‘l oladi. O‘zining “Fuqaro siyosati” kitobida u bu ishni Bog‘dodda boshlab, Qoxirada (Misr) yakunlaganini esga oladi. Sayohatdan so‘ng al Farobiy Damashqqa qaytadi umrining oxirigacha shu yerda yolg‘izlikda hayot kechiradi. O‘z asarlarini u alohida qog‘ozlarda qoldiradi (shu sababli uning asarlari alohida bob va qaydlarda saqlanib qolgan, ayrimlari parchalardagina saqlanib, ulardan ko‘plari yakunlanmagan ham). Sakson yoshida vafot etgan va Damashqning Kichik devori tagiga ko‘milgan. Aytishlaricha, o‘limidan so‘ng mozori yonida podshoning o‘zi to‘rt qamish ustida namoz o‘qigan.
+
+ Farobiyning falsafiy faoliyati ko‘p qirrali, u ensiklopediyachi-olim bo‘lgan. Faylasufning umumiy ishlari soni 80 va 130 o‘rtasida.
+
+ Farobiy doimiy ravishda dunyoning tuzilishini o‘rganishga harakat qilgan. Izlanishlariga ko‘ra, barchasining boshi har doimgiday Alloh. O‘rtasi — borliq iyerarxiyasi. Odamzod — dunyoni anglab, unda harakatlanuvchi nogiron. Oxiri — chinakam baxtga erishish.
+
+ Al Farobiy insoniyatning bilimga ega bo‘lish mohiyatiga oydinlik kiritgan. Mohiyatni anglash uchun his qilishning o‘zi yetarli emas. Bunga faqat aql yordamida erishish mumkin.
+
+ “Himmatli shahar aholisining nuqtai nazari haqida risola” — al Farobiyning eng yetuk asarlaridan biri. 948 yil Misrda yozilgan.
+
+ “Himmatli shahar” ta’limoti keltirilgan bo‘lib, uning eng boshida faylasuf turadi. Al Farobiy insonning maqsadi baxt bo‘lib, unga faqat aql-idrok orqali erishish mumkin, deya tahmin qilgan. Mutafakkir jamiyatni davlat bilan tenglashtirgan. Jamiyat — inson organizmi. “Himmatli shahar — tirik jonzot hayotini saqlab qolish maqsadidagi barcha a’zolari bir-biriga yordam beruvchi sog‘lom tana singari”.
+
+ Farobiy, haqiqatdan ham jahon miqyosidagi inson bo‘lgan, u o‘zining ijodiy yutuqlarida arab, fors, yunon, hind va o‘zining shaxsiy turk madaniyatini o‘rganib, umumlashtirgan. Turk madaniyati sadosi uning mashhur “Kitab al musiq al kabir” (“Katta musiqa kitobi”) asarida yaqqol namoyon bo‘lgan.
+
+ Farobiy qo‘lyozmalari dunyoning ko‘plab kutubxonalaridan joy olgan. Shuningdek, Farobiy ijodini o‘rganuvchi olimlar safi ham shunchalik keng. Farobiy asarlarini nashrdan chiqaruvchi, uning chinakam ensiklopedik merosinining turli jihatlardan o‘rganuvchi olimlar farobiyshunoslikka o‘z xissasini qo‘shib kelishmoqda.
+
+     "</string>
+
+
+    <string name="muin_nasafiy">" Azaldan jonajon yurtimiz dunyoga ko’plab sohalarda buyuk olimlarni yetishtirib bergan. Bu ulamolar o’z yo’nalishlarida ulkan yutuqlarga erishgan. Shu qatorida kalom ilmi ham ravnaq topdi. Bu ilmda juda ko’plab olimlar ijod qilgan. Ushbu yo’lda hizmat qilgan yetuk allomalardan biri ulug‘ olim, ahli sunna val jamoa peshvosi, Abu Mansur Moturidiy maktabining atoqli namoyondasi, mutakallimlar tili va boshqa unvonlar sohibi Abul Muin Nasafiydir. Uning asl ismi Abul Mu’in Maymun ibn Muhammad ibn Muhammad ibn Mo‘tamad ibn Muhammad ibn Makhul ibn Fazl Nasafiy Makhuliydir. Milodiy 1027- yili yoki 1038-yili( hijriy 418- yoki 438- yili) Nasafda tug‘ilgan. Abdulkarim Sam’oniy Abul Muin ismiga “Ibsoniy”ni ham qo‘shib aytadi. Ibson qishlog‘i Qarshi shahrida joylashganini ta’kidlaydi. Abul Muin Nasafiy shu qishloqda tug‘ilgan. U kishiga Makhuliy deb nisbati berilishi katta bobolari sabablidir. Katta bobosi Makhul Nasafiy (vafoti 930 y.) Imom Moturidiyning shogirdlaridan biri edi. Bobosi Mo‘tamid ibn Makhul Nasafiy esa hanafiy olimlari orasida mashhur edi. Imom Nasafiy ilmga qiziqtirgan inson uning otasi Muhammad ibn Mo’tamad bo’lgan. U o’z shahrining peshvo ulomolaridan edi. Hatto Imom Nasafiy ba’zi sanadlarni rivoyat qilganda otasini ismini ham qo’shib aytar edi. Muhammad ibn Mo’tamad bir qancha kitob ta’lif etgan. “Lu’lu’yot fil mavo’iz”, “Lubob”, “Roddu a’la ahli bida’i val ahvai” (bid’atchi va hayolparastlarga raddiya) shular jumlasidan hisoblanadi. Boshlang‘ich bilimlarni bobosi so’ngra otasidan oladi. Keyinchalik Abul Yusr Pazdaviyning shogirdi bo‘ladi. Imom Nasafiy kalom ilmida yetuk olim sifatida salaf va xalaf o’rtasida ko’prik vazifasini bajargan va Moturidiyya yo’nalishini rivoj topishida ulkan xizmatlar qilgan.
+
+ Imom Nasafiy Abbosiylar xalifaligi davrida Buxoro va Samarqandda yashab, ijod qilgan. Bu davrda ilm – fanning barcha sohalariga e’tibor berilgan. Natijada jamiyatda hur fikrlilik rivojlanib, turli xil oqimlar va aqidalar paydo bo’la boshlagan edi. Shu sababli imom Nasafiy turli noto’g’ri mazhablarga raddiya sifatida ko’plab kitoblarni ta’snif etgan. Ulardan bizga yetib kelganlari:
+
+ “Tabsirtul adilla fi usuliddin”, bu kitob Motuturidiyya mazhabi bo’yicha Imom Moturidiyning “Tavhid” kitobodan keyingi o’rinda e’tirof etiladi.
+
+ “Bahrul kalom fi ilmil kalom”, bu kitob kalom ilmi bo’yicha Moturidiyya maktabining asasiylaridan biridir. Ushbu asar Abu Mansur Moturidiy asos solgan islomiy aqidaning bosh manbalaridan hisoblanadi. Ayniqsa, islom dinida turli tuman oqimlar va ta’limotlar yaratilayotgan hozirgi davrda bu asarning ilmiy amaliy ahamyati beqiyosdir.
+
+ “At-Tamhid li qovaidit tavhid fi ilmil kalom”,
+
+ “al-Olim val mutaallim”,
+
+ “al-Umda fi usuli fiqh”
+
+ “izohul ma hajati likavnilaql hujjatan” ,
+
+ “Sharhul jomi’ul kabir lishshaybinuy fi furu’”,
+
+ “Manohijul aimmati fi furu’”,
+
+ “Mo’taqidot”.
+
+ Uning shogirdlari orasidan Ahmad al-Bazdaviy, Ahmad ibn Muhammad Abul Fath Xulamiy 470 yili tug’ilgan. Buxoro shaxrida yashab juda kop ilm sohibi bo’lgan. Muhammad ibn Ahmad ibn Abu Ahmad Abu Bakr Alouddin Samarqandiydir, u hanafiy olimlar orasida “Tuhfatul fuqiho” nomli kitobi ila mashhurdir. Melodiy 1180 yil vafot etgan. Ibrohim Saffor Buxoriy, Najmiddin Umar Nasafiy, Abu Bakr Koshoniy, Abul Muzaffar Toliqoniy kabi olimlar yetishib chiqqan. Abul Muin Nasafiy asarlarining ko‘pi kalom ilmining turli masalalariga bag‘ishlangan. Olimning “Bahrul kalom fi ilmil kalom” asari moturidiya maktabining kalom bo‘yicha asosiy manbalaridan biridir. U o‘rta asrlarda katta shuhrat qozongan. Olimning ushbu asari uchta katta asari orasida (“Tabsiratul adilla”, “At-tamhid li qova’idit tavhid”, “Bahrul kalom”) birinchi bo‘lib nashr etilgan.Abul Muin Nasafiyning mashhur asarlaridan yana biri “Tabsiratul adilla fi usulid din ala toriqil imom Abu Mansur Moturidiy” (“Din asoslarini imom Abu Mansur Moturidiy tariqatiga binoan dalillar bilan sharhlash”)dir. Nomidan ham ma’lum, asarda moturidiya ta’limoti dalillar bilan sharhlanadi.Allomaning kalom ilmiga oid yana bir mo‘‘jaz kitobi “Kitobut tamhid li qova’idit tavhid” asaridir. Jahon kutubxonalarida kitobning ko‘plab nusxalari saqlanadi. Yaqinda Turkiyada bu asar Istambul kutubxonalarida saqlanayotgan qo‘lyozmalari asosida qayta nashr etildi. Alloma mol-dunyoga qiziqmadi, parhezkor, faqih, muhaddis, mutakallim bo‘lib, qat’iy dalillar bilan salaflarning fikrlarini mustahkamladi, mo‘tazila, jahmiya, rofiziya, xorijiya kabi muxolif firqalarga qarshi turib, ularning aqidasi botilligini aniq, ishonchli dalillar bilan isbotlab, odamlar orasida ilmu ma’rifat ziyosini sochdi. Abul Muin Nasafiy milodiy 1114 yili (hijriy 508 yil) vafot etgan. Qabri Qashqadaryo viloyati Qarshi tumanida.
+
+     "</string>
+    <string name="ap_infp">"
+ Allomalar Ilovasi
+*Ushbu dastur Gita dasturchilar akademiyasi talabasi tomonidan yaratilgan. Ushbu ilovadan foydalanib, siz  o'zbek allomalar haqida ma'lumot olishingiz mumkin.
+
+   Framework
+* Android Studiyasi
+* java"</string>
+
+
+</resources>
